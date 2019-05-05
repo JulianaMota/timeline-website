@@ -1,0 +1,128 @@
+<svg id="creative" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336.8" height="269.4" viewBox="0 0 336.8 269.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#madeira);
+      }
+
+      .cls-2 {
+        fill: url(#madeira-2);
+      }
+
+      .cls-3 {
+        fill: url(#madeira-3);
+      }
+
+      .cls-4 {
+        fill: url(#madeira-4);
+      }
+
+      .cls-5 {
+        fill: url(#white_gradient);
+      }
+
+      .cls-6 {
+        fill: #5da59e;
+      }
+
+      .cls-14, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #ffcbb6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        fill: #e67399;
+      }
+
+      .cls-9 {
+        fill: #bc8e4a;
+      }
+
+      .cls-10 {
+        fill: #ffcbb6;
+      }
+
+      .cls-11 {
+        fill: #af4925;
+      }
+
+      .cls-12 {
+        fill: url(#white_gradient-2);
+      }
+
+      .cls-13 {
+        fill: #a84492;
+      }
+
+      .cls-15 {
+        fill: #f1af5e;
+      }
+
+      .cls-16 {
+        fill: url(#madeira-5);
+      }
+
+      .cls-17 {
+        fill: url(#madeira-6);
+      }
+
+      .cls-18 {
+        fill: url(#madeira-7);
+      }
+
+      .cls-19 {
+        fill: url(#white_gradient-3);
+      }
+    </style>
+    <linearGradient id="madeira" x1="57.5" y1="126.5" x2="78.84" y2="126.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cca664"/>
+      <stop offset="1" stop-color="#4e0e0c"/>
+    </linearGradient>
+    <linearGradient id="madeira-2" data-name="madeira" x1="32.84" y1="140.02" x2="134.97" y2="140.02" xlink:href="#madeira"/>
+    <linearGradient id="madeira-3" data-name="madeira" x1="110.81" y1="118.17" x2="209.36" y2="118.17" xlink:href="#madeira"/>
+    <linearGradient id="madeira-4" data-name="madeira" x1="90.5" y1="182.5" x2="191.53" y2="182.5" xlink:href="#madeira"/>
+    <linearGradient id="white_gradient" data-name="white gradient" x1="37.84" y1="106.5" x2="177.84" y2="106.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b3b3b3"/>
+    </linearGradient>
+    <linearGradient id="white_gradient-2" x1="144.16" y1="355.86" x2="202.84" y2="355.86" xlink:href="#white_gradient"/>
+    <linearGradient id="madeira-5" data-name="madeira" x1="298.5" y1="209.88" x2="307.09" y2="209.88" xlink:href="#madeira"/>
+    <linearGradient id="madeira-6" data-name="madeira" x1="268.5" y1="153.17" x2="336.84" y2="153.17" xlink:href="#madeira"/>
+    <linearGradient id="madeira-7" data-name="madeira" x1="292.67" y1="263.75" x2="313.5" y2="263.75" xlink:href="#madeira"/>
+    <linearGradient id="white_gradient-3" x1="419.84" y1="369.09" x2="467.01" y2="369.09" xlink:href="#white_gradient"/>
+  </defs>
+  <title>creative-svg</title>
+  <g id="paint-creat">
+    <polygon class="cls-1" points="72.8 3.3 57.5 253 66.8 252.7 78.8 0 72.8 3.3"/>
+    <polygon class="cls-2" points="32.8 14 127.4 269.4 135 265.3 40.8 10.7 32.8 14"/>
+    <polygon class="cls-3" points="110.8 2.7 199.2 236.3 209.4 230.5 121.5 0 110.8 2.7"/>
+    <polygon class="cls-4" points="186.2 148 90.5 203.3 97.5 217 191.5 160 186.2 148"/>
+    <polygon class="cls-5" points="37.8 24.7 100.8 199 177.8 151 130.8 14 37.8 24.7"/>
+    <path class="cls-6" d="M241.7,347.3c-8.8-11.6-14-18.6-12-22s8.7-3,14-.6c9.9,4.4,8.7,15.7,16.6,18s13.9-6.9,18-4,3.1,10.3,0,16c-4.3,8.2-12.1,7.4-14,14s5.6,11.9,3.4,15.3c-3.3,5.1-23.9.8-25.4-6.7-1-5.2,8.1-8,8-16C250.3,357.4,248.1,355.9,241.7,347.3Z" transform="translate(-144.2 -252)"/>
+  </g>
+  <g id="girl-creat">
+    <line class="cls-7" x1="194.4" y1="247.2" x2="194.4" y2="260.1"/>
+    <line class="cls-7" x1="217.1" y1="247.1" x2="217.1" y2="260.1"/>
+    <path class="cls-8" d="M340.5,362,312.8,482.7s9.1,16.2,34.6,18,35.7-14.4,35.7-14.4L352.9,362l-3.9,2.3a4.7,4.7,0,0,1-4.6,0Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-9" d="M367.7,316.8c-7.9-7.4-28.9-8.7-38.4-.5s-12.6,22-12.1,41,27.7,11.2,18.7,11.8c-3.4.3-5.4-4-6.3-9.7-2.5-2.4,7.3,8.2,17.9,8.5s21.2-9.9,20.4-9a31.7,31.7,0,0,1-5,10.2s9.2-3.2,14.5-6.3S375.6,324.2,367.7,316.8Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-10" d="M369.3,344.7c-1.5-13.4-9.7-17.4-9.7-17.4l-1.1-7.1-5.3,7.1s-18.9-2.1-22.1,4.7c-1.9,4.3-3.1,17.9-1.5,27.4a26.6,26.6,0,0,0,38.3-.5A35,35,0,0,0,369.3,344.7Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-11" d="M340.4,353.3a8.1,8.1,0,0,0,3.3,3.3,8.6,8.6,0,0,0,4.4,1.2,5.4,5.4,0,0,0,2.2-.1,6.7,6.7,0,0,0,2.1-.9,8.8,8.8,0,0,0,3.1-3.5,8.1,8.1,0,0,1-2.6,4.2,7,7,0,0,1-2.3,1.1,7.6,7.6,0,0,1-2.6.2,9,9,0,0,1-4.7-1.5A7.2,7.2,0,0,1,340.4,353.3Z" transform="translate(-144.2 -252)"/>
+  </g>
+  <g id="ink-creat">
+    <path class="cls-12" d="M177.5,335.9c-14.7-5.9-22.7-1.4-25.8,1.6s-1.1,5.5,2,9.2,3.7,3.9,2.4,8.7-6.9.7-11.1,7.8,8.4,11.6,8.4,11.6,19.7,6.3,33.8,2.8,15.6-17.5,15.6-17.5C202.7,353.7,192.2,341.9,177.5,335.9Zm-8.6,21.2a4.9,4.9,0,0,1-6,3.5,5,5,0,0,1-3.5-6.1,4.9,4.9,0,0,1,6.1-3.4A4.8,4.8,0,0,1,168.9,357.1Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-13" d="M189.7,349c2.1,2.9,3.1,4.4,2.7,5.3a2.9,2.9,0,0,1-3.5,1.2c-1.7-.7-.9-3.1-3-5.6s-4.3-2.3-4.2-3.1,3.5-1.7,5.8-.3A13.1,13.1,0,0,1,189.7,349Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-14" d="M189.8,368.6" transform="translate(-144.2 -252)"/>
+    <path class="cls-15" d="M177.7,369c.6,1.9-1,4.4-2.6,4.7s-1.8-1.4-4.7-2.6-4.6-.6-4.8-1.3,3.1-3.7,6.8-3.6C172.9,366.2,176.9,366.3,177.7,369Z" transform="translate(-144.2 -252)"/>
+    <path class="cls-6" d="M190.9,362.7c1.4,1.8,1.8,4.8.3,6.1s-3.7.3-4.5.1-3.9-1.4-4-4a4.3,4.3,0,0,1,3.1-4.3C188,359.9,190,361.4,190.9,362.7Z" transform="translate(-144.2 -252)"/>
+  </g>
+  <g id="scultpure-creat">
+    <rect class="cls-16" x="298.5" y="156" width="8.6" height="107.75"/>
+    <rect class="cls-17" x="268.5" y="148" width="68.3" height="10.33"/>
+    <rect class="cls-18" x="292.7" y="260.3" width="20.8" height="6.83"/>
+    <path class="cls-19" d="M436,400s-18,3-16-25,22.7-38.3,22.7-38.3l15,7s13,35.2,8.3,49S436,400,436,400Z" transform="translate(-144.2 -252)"/>
+  </g>
+</svg>

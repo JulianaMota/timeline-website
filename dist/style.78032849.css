@@ -1,0 +1,248 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/***svg time line css***/
+.timelines {
+  isolation: isolate;
+}
+
+.separatorTY,
+.cls-2,
+.noFill {
+  fill: none;
+}
+
+.greyColor {
+  fill: #cccbcb;
+}
+
+.purpuleColor {
+  fill: #a84492;
+}
+
+.placeTY,
+.blueColor {
+  fill: #5da59e;
+}
+
+.pinkColor {
+  fill: #e67399;
+}
+
+.yellowColor {
+  fill: #f1af5e;
+}
+
+.orangeColor {
+  fill: #f1906c;
+}
+
+.separatorTY,
+.dragCircle,
+.noFill {
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.yearTY {
+  font-size: 12px;
+}
+
+.yearTY,
+.adjeLeter {
+  font-family: Montserrat-Regular, Montserrat;
+}
+
+.placeTY {
+  font-size: 18px;
+  font-family: Montserrat-Bold, Montserrat;
+  font-weight: 700;
+}
+
+.separatorTY {
+  stroke-width: 3px;
+}
+
+.iconsShadow {
+  opacity: 0.57;
+  mix-blend-mode: multiply;
+}
+
+.mmdCircle {
+  fill: url(#linear-gradient);
+}
+
+.futureCircle {
+  fill: url(#linear-gradient-2);
+}
+
+.heartCircle {
+  fill: url(#linear-gradient-3);
+}
+
+.danCircle {
+  fill: url(#linear-gradient-4);
+}
+
+.workCircle {
+  fill: url(#linear-gradient-5);
+}
+
+.searchCircle {
+  fill: url(#linear-gradient-6);
+}
+
+.archCircle {
+  fill: url(#linear-gradient-7);
+}
+
+.artCircle {
+  fill: url(#linear-gradient-8);
+}
+
+.scoutCircle {
+  fill: url(#linear-gradient-9);
+}
+
+.girlCircle {
+  fill: url(#linear-gradient-10);
+}
+
+.adjeLeter {
+  font-size: 14px;
+  fill: #fff;
+}
+
+.dragCircle {
+  fill: url(#linear-gradient-11);
+}
+
+
+/*# sourceMappingURL=/style.78032849.css.map */

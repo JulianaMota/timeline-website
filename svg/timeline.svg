@@ -1,143 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1142.8" height="304.5" viewBox="0 0 1142.8 304.5">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1142.8 304.5">
   <defs>
-    <style>
-      .cls-1 {
-        isolation: isolate;
-      }
-
-      .cls-19, .cls-2, .cls-9 {
-        fill: none;
-      }
-
-      .cls-3 {
-        fill: #cccbcb;
-      }
-
-      .cls-4 {
-        fill: #a84492;
-      }
-
-      .cls-13, .cls-5 {
-        fill: #5da59e;
-      }
-
-      .cls-6 {
-        fill: #e67399;
-      }
-
-      .cls-7 {
-        fill: #f1af5e;
-      }
-
-      .cls-8 {
-        fill: #f1906c;
-      }
-
-      .cls-19, .cls-32, .cls-9 {
-        stroke: #000;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-10 {
-        font-size: 12px;
-      }
-
-      .cls-10, .cls-31 {
-        font-family: Montserrat-Regular, Montserrat;
-      }
-
-      .cls-11 {
-        letter-spacing: 0em;
-      }
-
-      .cls-12 {
-        letter-spacing: -0.01em;
-      }
-
-      .cls-13 {
-        font-size: 18px;
-        font-family: Montserrat-Bold, Montserrat;
-        font-weight: 700;
-      }
-
-      .cls-14 {
-        letter-spacing: 0em;
-      }
-
-      .cls-15 {
-        letter-spacing: 0em;
-      }
-
-      .cls-16 {
-        letter-spacing: -0.02em;
-      }
-
-      .cls-17 {
-        letter-spacing: -0.01em;
-      }
-
-      .cls-18 {
-        letter-spacing: -0.01em;
-      }
-
-      .cls-19 {
-        stroke-width: 3px;
-      }
-
-      .cls-20 {
-        opacity: 0.57;
-        mix-blend-mode: multiply;
-      }
-
-      .cls-21 {
-        fill: url(#linear-gradient);
-      }
-
-      .cls-22 {
-        fill: url(#linear-gradient-2);
-      }
-
-      .cls-23 {
-        fill: url(#linear-gradient-3);
-      }
-
-      .cls-24 {
-        fill: url(#linear-gradient-4);
-      }
-
-      .cls-25 {
-        fill: url(#linear-gradient-5);
-      }
-
-      .cls-26 {
-        fill: url(#linear-gradient-6);
-      }
-
-      .cls-27 {
-        fill: url(#linear-gradient-7);
-      }
-
-      .cls-28 {
-        fill: url(#linear-gradient-8);
-      }
-
-      .cls-29 {
-        fill: url(#linear-gradient-9);
-      }
-
-      .cls-30 {
-        fill: url(#linear-gradient-10);
-      }
-
-      .cls-31 {
-        font-size: 14px;
-        fill: #fff;
-      }
-
-      .cls-32 {
-        fill: url(#linear-gradient-11);
-      }
-    </style>
+    
     <linearGradient id="linear-gradient" x1="923.5" y1="120" x2="987.5" y2="120" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#cdcccc"/>
@@ -154,11 +17,11 @@
     <linearGradient id="linear-gradient-11" x1="13.78" y1="16" x2="32.78" y2="16" xlink:href="#linear-gradient"/>
   </defs>
   <title>timeline</title>
-  <g class="cls-1">
+  <g class="timelines">
     <g id="timeline-experience">
       <g id="colorpath">
-        <path class="cls-2" d="M1094.6,700.4c-9.1-.1-17.1,2.8-23,8.7s-9.3,14.1-9.3,23.3v1.1H1127v-1.1C1127,727.2,1125.5,701,1094.6,700.4Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-2" d="M985.2,763.6c10,.2,17.8-2.3,23.1-7.5s8.2-13.1,8.4-22.6H953.5c.2,5.3,3.2,13.5,9.5,20.1A30.1,30.1,0,0,0,985.2,763.6Z" transform="translate(-249 -612.5)"/>
+        <!-- <path class="cls-2" d="M1094.6,700.4c-9.1-.1-17.1,2.8-23,8.7s-9.3,14.1-9.3,23.3v1.1H1127v-1.1C1127,727.2,1125.5,701,1094.6,700.4Z" transform="translate(-249 -612.5)"/> -->
+        <!-- <path class="cls-2" d="M985.2,763.6c10,.2,17.8-2.3,23.1-7.5s8.2-13.1,8.4-22.6H953.5c.2,5.3,3.2,13.5,9.5,20.1A30.1,30.1,0,0,0,985.2,763.6Z" transform="translate(-249 -612.5)"/>
         <path class="cls-2" d="M546.2,763.6c10.2.2,18.3-2.5,23.9-8.1s8.8-13.5,9.1-22H514.7C515.6,742,520.4,763.1,546.2,763.6Z" transform="translate(-249 -612.5)"/>
         <path class="cls-2" d="M766.6,763.6c7.3.3,13.8-2.2,19.6-7.5,7.3-6.8,11.2-16.1,12-22.6H734.5C735.6,752,746.9,762.7,766.6,763.6Z" transform="translate(-249 -612.5)"/>
         <path class="cls-2" d="M679.2,706.9c-4.9-4.7-12.2-6.9-21.4-6.5-21.4.9-33,17.2-33,32v1.1h64V733C688.5,721.6,685.1,712.3,679.2,706.9Z" transform="translate(-249 -612.5)"/>
@@ -166,272 +29,272 @@
         <path class="cls-2" d="M1340,708.4c-6-6.2-18.1-7.7-27.2-8h-1.1c-18.3,0-29.4,12-30.2,33a.1.1,0,0,0-.1.1h64.7a8.6,8.6,0,0,1,.1-1.6C1346.4,720.8,1344.3,712.9,1340,708.4Z" transform="translate(-249 -612.5)"/>
         <path class="cls-2" d="M327.7,765.1c11,.2,19-2.1,23.8-6.8s7.6-10.5,7.8-24.8h-63a48,48,0,0,0,5.2,17.2C306.8,760.5,314.9,764.9,327.7,765.1Z" transform="translate(-249 -612.5)"/>
         <path class="cls-2" d="M1205.3,763.6c13.7.4,28.6-7.4,30.4-30.1h-63c.5,4.4,3.9,11.7,10.5,18.5S1198.5,763.4,1205.3,763.6Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-2" d="M463.8,709c-3.9-5.7-12.7-8.6-26.1-8.6-17.2,0-23.6,6.8-26.9,11.9-4.6,7.1-5.8,16-5.8,20.1,0,.4-.1.7-.1,1.1h64v-1.1C468.6,724.5,467.8,714.8,463.8,709Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-3" d="M296.2,732.2V612.5H250.5V733.4h45.8A7.8,7.8,0,0,1,296.2,732.2Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-4" d="M570.1,755.5c-5.6,5.6-13.7,8.3-23.9,8.1-25.8-.5-30.6-21.6-31.5-30.1H468.9c.9,17.5,7.2,34.9,17.7,48s27.9,27.1,58.7,27.7c22.6.5,42.2-6.8,56.8-21.1s22.4-33.8,22.7-54.6H579.2C578.9,742,575.6,750.2,570.1,755.5Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-5" d="M514.5,730.9c-.5-14.1-2.4-32.3-13-47.8-13-18.8-34.4-28.3-63.8-28.3-36.3,0-55.5,17.7-65.2,32.6-12.2,18.9-13.2,39.2-13.2,45v1.1h45.6c0-.4.1-.7.1-1.1,0-4.1,1.2-13,5.8-20.1,3.3-5.1,9.7-11.9,26.9-11.9,13.4,0,22.2,2.9,26.1,8.6s4.8,15.5,5.1,23.4v1.1h45.8C514.6,732.4,514.5,731.5,514.5,730.9Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-6" d="M351.5,758.3c-4.8,4.7-12.8,7-23.8,6.8-12.8-.2-20.9-4.6-26.2-14.4a48,48,0,0,1-5.2-17.2H250.5a95.7,95.7,0,0,0,9.8,36.9c13,25.6,36.7,39.9,66.7,40.4,23.7.3,42.8-6.4,56.5-20,9.7-9.5,21.2-27.2,21.4-57.3H359.3C359.1,747.8,355,754.9,351.5,758.3Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-6" d="M786.2,756.1c-5.8,5.3-12.3,7.8-19.6,7.5-19.7-.9-31-11.6-32.1-30.1H688.8c1.3,43.3,31.7,73.7,75.8,75.7a72.2,72.2,0,0,0,52.6-19.6c15.8-14.6,26-36,26.7-56.1H798.2C797.4,740,793.5,749.3,786.2,756.1Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-4" d="M1205.3,763.6c-6.8-.2-15.2-4.6-22.1-11.6s-10-14.1-10.5-18.5H1127c.4,17.1,9,35.5,23.7,50.5s34.7,24.7,53.3,25.2a74.1,74.1,0,0,0,52.8-19.3c15.1-14,23.6-33.5,24.6-56.4h-45.7C1233.9,756.2,1219,764,1205.3,763.6Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-5" d="M1391.8,732.9c.5-23.8-5.9-42.7-19-56.2s-33.2-21.2-58.8-21.9c-44-1.1-76.2,30.4-78.2,76.6a14.8,14.8,0,0,1-.1,2.1h45.7a.1.1,0,0,1,.1-.1c.8-21,11.9-33,30.2-33h1.1c9.1.3,21.2,1.8,27.2,8,4.3,4.5,6.4,12.4,6.2,23.5a8.6,8.6,0,0,0-.1,1.6h45.7Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-7" d="M734.4,731.8c-.6-23.7-9.1-44.4-24-58.3s-32.9-19.6-54.5-18.7c-48,2-76.7,41-76.7,77.6v1.1h45.6v-1.1c0-14.8,11.6-31.1,33-32,9.2-.4,16.5,1.8,21.4,6.5s9.3,14.7,9.6,26.1v.5h45.7A9.7,9.7,0,0,1,734.4,731.8Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-3" d="M1391.8,733.5h-45.7c-.7,34.1,0,84.6,0,120.2l45.7-.2C1391.5,821.7,1391.1,767.1,1391.8,733.5Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-7" d="M1172.7,732.4c0-37.8-26.5-76.6-77.2-77.6-21.4-.4-41.2,7.3-55.9,21.7s-22.9,34.3-22.9,55.9v1.1h45.6v-1.1c0-9.2,3.3-17.5,9.3-23.3s13.9-8.8,23-8.7c30.9.6,32.4,26.8,32.4,32v1.1h45.7Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-8" d="M953.5,732.4c.8-21.1-6.7-41.4-20.4-55.6-9.7-10-27.5-22-57.2-22-33.5,0-51.9,15-61.5,27.5-12.5,16.5-15.6,35.9-16.1,49.4a11.5,11.5,0,0,1-.1,1.8h45.7c0-.1.1-.2.1-.4,1-32.7,22.7-32.7,31.9-32.7,11,0,19.2,2.8,24.4,8.2s7.8,15.5,7.6,22.3v2.6h45.6Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-5" d="M1008.3,756.1c-5.3,5.2-13.1,7.7-23.1,7.5a30.1,30.1,0,0,1-22.2-10c-6.3-6.6-9.3-14.8-9.5-20.1H907.9c.2,18,8.2,37,21.9,51.5a76.3,76.3,0,0,0,54.4,24.2c22.5.5,41.8-6.6,56-20.5s21.9-33.3,22.1-55.2h-45.6C1016.5,743,1013.5,751,1008.3,756.1Z" transform="translate(-249 -612.5)"/>
+        <path class="cls-2" d="M463.8,709c-3.9-5.7-12.7-8.6-26.1-8.6-17.2,0-23.6,6.8-26.9,11.9-4.6,7.1-5.8,16-5.8,20.1,0,.4-.1.7-.1,1.1h64v-1.1C468.6,724.5,467.8,714.8,463.8,709Z" transform="translate(-249 -612.5)"/> -->
+        <path class="greyColor" d="M296.2,732.2V612.5H250.5V733.4h45.8A7.8,7.8,0,0,1,296.2,732.2Z" transform="translate(-249 -612.5)"/>
+        <path class="purpuleColor" d="M570.1,755.5c-5.6,5.6-13.7,8.3-23.9,8.1-25.8-.5-30.6-21.6-31.5-30.1H468.9c.9,17.5,7.2,34.9,17.7,48s27.9,27.1,58.7,27.7c22.6.5,42.2-6.8,56.8-21.1s22.4-33.8,22.7-54.6H579.2C578.9,742,575.6,750.2,570.1,755.5Z" transform="translate(-249 -612.5)"/>
+        <path class="blueColor" d="M514.5,730.9c-.5-14.1-2.4-32.3-13-47.8-13-18.8-34.4-28.3-63.8-28.3-36.3,0-55.5,17.7-65.2,32.6-12.2,18.9-13.2,39.2-13.2,45v1.1h45.6c0-.4.1-.7.1-1.1,0-4.1,1.2-13,5.8-20.1,3.3-5.1,9.7-11.9,26.9-11.9,13.4,0,22.2,2.9,26.1,8.6s4.8,15.5,5.1,23.4v1.1h45.8C514.6,732.4,514.5,731.5,514.5,730.9Z" transform="translate(-249 -612.5)"/>
+        <path class="pinkColor" d="M351.5,758.3c-4.8,4.7-12.8,7-23.8,6.8-12.8-.2-20.9-4.6-26.2-14.4a48,48,0,0,1-5.2-17.2H250.5a95.7,95.7,0,0,0,9.8,36.9c13,25.6,36.7,39.9,66.7,40.4,23.7.3,42.8-6.4,56.5-20,9.7-9.5,21.2-27.2,21.4-57.3H359.3C359.1,747.8,355,754.9,351.5,758.3Z" transform="translate(-249 -612.5)"/>
+        <path class="pinkColor" d="M786.2,756.1c-5.8,5.3-12.3,7.8-19.6,7.5-19.7-.9-31-11.6-32.1-30.1H688.8c1.3,43.3,31.7,73.7,75.8,75.7a72.2,72.2,0,0,0,52.6-19.6c15.8-14.6,26-36,26.7-56.1H798.2C797.4,740,793.5,749.3,786.2,756.1Z" transform="translate(-249 -612.5)"/>
+        <path class="purpuleColor" d="M1205.3,763.6c-6.8-.2-15.2-4.6-22.1-11.6s-10-14.1-10.5-18.5H1127c.4,17.1,9,35.5,23.7,50.5s34.7,24.7,53.3,25.2a74.1,74.1,0,0,0,52.8-19.3c15.1-14,23.6-33.5,24.6-56.4h-45.7C1233.9,756.2,1219,764,1205.3,763.6Z" transform="translate(-249 -612.5)"/>
+        <path class="blueColor" d="M1391.8,732.9c.5-23.8-5.9-42.7-19-56.2s-33.2-21.2-58.8-21.9c-44-1.1-76.2,30.4-78.2,76.6a14.8,14.8,0,0,1-.1,2.1h45.7a.1.1,0,0,1,.1-.1c.8-21,11.9-33,30.2-33h1.1c9.1.3,21.2,1.8,27.2,8,4.3,4.5,6.4,12.4,6.2,23.5a8.6,8.6,0,0,0-.1,1.6h45.7Z" transform="translate(-249 -612.5)"/>
+        <path class="yellowColor" d="M734.4,731.8c-.6-23.7-9.1-44.4-24-58.3s-32.9-19.6-54.5-18.7c-48,2-76.7,41-76.7,77.6v1.1h45.6v-1.1c0-14.8,11.6-31.1,33-32,9.2-.4,16.5,1.8,21.4,6.5s9.3,14.7,9.6,26.1v.5h45.7A9.7,9.7,0,0,1,734.4,731.8Z" transform="translate(-249 -612.5)"/>
+        <path class="greyColor" d="M1391.8,733.5h-45.7c-.7,34.1,0,84.6,0,120.2l45.7-.2C1391.5,821.7,1391.1,767.1,1391.8,733.5Z" transform="translate(-249 -612.5)"/>
+        <path class="yellowColor" d="M1172.7,732.4c0-37.8-26.5-76.6-77.2-77.6-21.4-.4-41.2,7.3-55.9,21.7s-22.9,34.3-22.9,55.9v1.1h45.6v-1.1c0-9.2,3.3-17.5,9.3-23.3s13.9-8.8,23-8.7c30.9.6,32.4,26.8,32.4,32v1.1h45.7Z" transform="translate(-249 -612.5)"/>
+        <path class="orangeColor" d="M953.5,732.4c.8-21.1-6.7-41.4-20.4-55.6-9.7-10-27.5-22-57.2-22-33.5,0-51.9,15-61.5,27.5-12.5,16.5-15.6,35.9-16.1,49.4a11.5,11.5,0,0,1-.1,1.8h45.7c0-.1.1-.2.1-.4,1-32.7,22.7-32.7,31.9-32.7,11,0,19.2,2.8,24.4,8.2s7.8,15.5,7.6,22.3v2.6h45.6Z" transform="translate(-249 -612.5)"/>
+        <path class="blueColor" d="M1008.3,756.1c-5.3,5.2-13.1,7.7-23.1,7.5a30.1,30.1,0,0,1-22.2-10c-6.3-6.6-9.3-14.8-9.5-20.1H907.9c.2,18,8.2,37,21.9,51.5a76.3,76.3,0,0,0,54.4,24.2c22.5.5,41.8-6.6,56-20.5s21.9-33.3,22.1-55.2h-45.6C1016.5,743,1013.5,751,1008.3,756.1Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
     <g id="middle-line">
-      <path class="cls-9" d="M272.3,612.5V735s1.5,54.5,54.2,55.3,54.9-42,54.9-55.7,6.9-55,55.7-55,53.5,31.3,54.2,54.2,15.3,54.2,54.2,55S602,760.5,602,734.6s20.3-53.5,54.9-55c36.7-1.5,54.2,24.5,55,55s20.6,52.7,54.2,54.2,54.9-30.5,55.7-54.2,11.5-55,55-55,55.7,32.1,54.9,54.2,19.1,54.2,54.2,55,54.9-22.9,54.9-54.2,23.7-55.6,55.8-55c39.7.8,54.9,31.3,54.9,55s27.5,53.4,55,54.2,52.6-18.3,54.2-54.2,25.1-55.7,54.9-55c39.9,1.1,56.5,20.6,55.7,55s.1,119.1.1,119.1" transform="translate(-249 -612.5)"/>
+      <path class="noFill" d="M272.3,612.5V735s1.5,54.5,54.2,55.3,54.9-42,54.9-55.7,6.9-55,55.7-55,53.5,31.3,54.2,54.2,15.3,54.2,54.2,55S602,760.5,602,734.6s20.3-53.5,54.9-55c36.7-1.5,54.2,24.5,55,55s20.6,52.7,54.2,54.2,54.9-30.5,55.7-54.2,11.5-55,55-55,55.7,32.1,54.9,54.2,19.1,54.2,54.2,55,54.9-22.9,54.9-54.2,23.7-55.6,55.8-55c39.7.8,54.9,31.3,54.9,55s27.5,53.4,55,54.2,52.6-18.3,54.2-54.2,25.1-55.7,54.9-55c39.9,1.1,56.5,20.6,55.7,55s.1,119.1.1,119.1" transform="translate(-249 -612.5)"/>
     </g>
     <g id="place-year">
-      <text class="cls-10" transform="translate(121.5 281.5)">1989 - <tspan class="cls-11" x="37.5" y="0">2</tspan><tspan x="44.2" y="0">0</tspan><tspan class="cls-12" x="52.2" y="0">0</tspan><tspan x="60" y="0">7</tspan></text>
-      <text class="cls-13" transform="translate(108.5 267.2)">MADEIRA</text>
-      <text class="cls-10" transform="translate(422.9 281.5)"><tspan class="cls-11">2</tspan><tspan x="6.8" y="0">0</tspan><tspan class="cls-12" x="14.7" y="0">0</tspan><tspan x="22.6" y="0">7 - </tspan><tspan class="cls-11" x="40.5" y="0">2</tspan><tspan class="cls-14" x="47.3" y="0">0</tspan><tspan x="55.2" y="0">13</tspan></text>
-      <text class="cls-13" transform="translate(418 267.2)">LISBON</text>
-      <text class="cls-10" transform="translate(784.6 281.5)"><tspan class="cls-11">2</tspan><tspan class="cls-14" x="6.8" y="0">0</tspan><tspan x="14.7" y="0">13 - </tspan><tspan class="cls-15" x="36.7" y="0">2</tspan><tspan class="cls-14" x="43.4" y="0">0</tspan><tspan x="51.3" y="0">19</tspan></text>
-      <text class="cls-13" transform="translate(745.7 267.2)"><tspan class="cls-16">C</tspan><tspan x="12.9" y="0">O</tspan><tspan class="cls-17" x="28.1" y="0">P</tspan><tspan x="41.1" y="0">ENH</tspan><tspan class="cls-18" x="82.3" y="0">A</tspan><tspan x="95.9" y="0">GEN</tspan></text>
+      <text class="yearTY" transform="translate(121.5 281.5)">1989 - 2007</text>
+      <text class="placeTY" transform="translate(108.5 267.2)">MADEIRA</text>
+      <text class="yearTY" transform="translate(422.9 281.5)">2007 - 2013</text>
+      <text class="placeTY" transform="translate(418 267.2)">LISBON</text>
+      <text class="yearTY" transform="translate(784.6 281.5)">2013 - 2019</text>
+      <text class="placeTY" transform="translate(745.7 267.2)">COPENHAGEN</text>
     </g>
     <g id="timeline-year">
-      <line class="cls-9" x1="1070" y1="241" x2="1.5" y2="241"/>
-      <line class="cls-19" x1="1.5" y1="234.5" x2="1.5" y2="247.5"/>
-      <line class="cls-19" x1="349.5" y1="234.5" x2="349.5" y2="247.5"/>
-      <line class="cls-19" x1="572.5" y1="234.5" x2="572.5" y2="247.5"/>
+      <line class="noFill" x1="1070" y1="241" x2="1.5" y2="241"/>
+      <line class="separatorTY" x1="1.5" y1="234.5" x2="1.5" y2="247.5"/>
+      <line class="separatorTY" x1="349.5" y1="234.5" x2="349.5" y2="247.5"/>
+      <line class="separatorTY" x1="572.5" y1="234.5" x2="572.5" y2="247.5"/>
     </g>
     <g id="mmdIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(917 81.5)" xlink:href="timeline1.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(917 81.5)" xlink:href="../svg/timeline1.png"/>
         <g>
-          <circle class="cls-21" cx="955.5" cy="120" r="32"/>
-          <circle class="cls-9" cx="955.5" cy="120" r="32"/>
+          <circle class="mmdCircle" cx="955.5" cy="120" r="32"/>
+          <circle class="noFill" cx="955.5" cy="120" r="32"/>
         </g>
       </g>
       <g id="code">
         <g>
-          <path class="cls-9" d="M1199.8,741.4l12.7-23.5v-.4a1.4,1.4,0,0,0-1.9-1.4l-.6.2-12.4,23.5Z" transform="translate(-249 -612.5)"/>
-          <path class="cls-9" d="M1197.6,739.8a4.3,4.3,0,0,0-2.5,4.5c.5,3.3-1.4,4.4-1.4,4.4a18.9,18.9,0,0,0,4.1-3.4,7.4,7.4,0,0,0,2-3.9Z" transform="translate(-249 -612.5)"/>
-          <polygon class="cls-9" points="950.8 128.9 951.7 127.2 949.4 125.6 948.2 127.3 950.8 128.9"/>
+          <path class="noFill" d="M1199.8,741.4l12.7-23.5v-.4a1.4,1.4,0,0,0-1.9-1.4l-.6.2-12.4,23.5Z" transform="translate(-249 -612.5)"/>
+          <path class="noFill" d="M1197.6,739.8a4.3,4.3,0,0,0-2.5,4.5c.5,3.3-1.4,4.4-1.4,4.4a18.9,18.9,0,0,0,4.1-3.4,7.4,7.4,0,0,0,2-3.9Z" transform="translate(-249 -612.5)"/>
+          <polygon class="noFill" points="950.8 128.9 951.7 127.2 949.4 125.6 948.2 127.3 950.8 128.9"/>
         </g>
-        <polygon class="cls-9" points="944.5 107.3 931.4 119.1 942.6 131.5 943.8 130.5 934.3 119.3 945.5 108.4 944.5 107.3"/>
-        <polygon class="cls-9" points="965.2 109 976.3 122.7 963.3 133.1 962.3 131.9 973.4 122.4 964.1 109.8 965.2 109"/>
+        <polygon class="noFill" points="944.5 107.3 931.4 119.1 942.6 131.5 943.8 130.5 934.3 119.3 945.5 108.4 944.5 107.3"/>
+        <polygon class="noFill" points="965.2 109 976.3 122.7 963.3 133.1 962.3 131.9 973.4 122.4 964.1 109.8 965.2 109"/>
       </g>
     </g>
     <g id="futureIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(1027 77.5)" xlink:href="timeline2.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(1027 77.5)" xlink:href="../svg/timeline2.png"/>
         <g>
-          <circle class="cls-22" cx="1065.5" cy="116" r="32"/>
-          <circle class="cls-9" cx="1065.5" cy="116" r="32"/>
+          <circle class="futureCircle" cx="1065.5" cy="116" r="32"/>
+          <circle class="noFill" cx="1065.5" cy="116" r="32"/>
         </g>
       </g>
-      <polygon id="arrow" class="cls-9" points="1045.2 109.7 1045.2 128.7 1067.5 128.7 1067.5 136.6 1088.4 118.7 1071.2 99.5 1070.2 107 1045.2 109.7"/>
+      <polygon id="arrow" class="noFill" points="1045.2 109.7 1045.2 128.7 1067.5 128.7 1067.5 136.6 1088.4 118.7 1071.2 99.5 1070.2 107 1045.2 109.7"/>
     </g>
     <g id="heartIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(478 81.5)" xlink:href="timeline3.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(478 81.5)" xlink:href="../svg/timeline3.png"/>
         <g>
-          <circle class="cls-23" cx="516.5" cy="120" r="32"/>
-          <circle class="cls-9" cx="516.5" cy="120" r="32"/>
+          <circle class="heartCircle" cx="516.5" cy="120" r="32"/>
+          <circle class="noFill" cx="516.5" cy="120" r="32"/>
         </g>
       </g>
-      <path id="heart" class="cls-9" d="M765.4,748.8s-12-6.2-16.5-13.8-1.8-14.1,3.5-16.1c9.8-3.6,13.5,4.8,13.5,4.8s6.4-8.2,13.4-4.8,6.4,10.7,3.2,15.8C777.1,743.1,765.4,748.8,765.4,748.8Z" transform="translate(-249 -612.5)"/>
+      <path id="heart" class="noFill" d="M765.4,748.8s-12-6.2-16.5-13.8-1.8-14.1,3.5-16.1c9.8-3.6,13.5,4.8,13.5,4.8s6.4-8.2,13.4-4.8,6.4,10.7,3.2,15.8C777.1,743.1,765.4,748.8,765.4,748.8Z" transform="translate(-249 -612.5)"/>
     </g>
     <g id="danIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(589 78.5)" xlink:href="timeline4.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(589 78.5)" xlink:href="../svg/timeline4.png"/>
         <g>
-          <circle class="cls-24" cx="627.5" cy="117" r="32"/>
-          <circle class="cls-9" cx="627.5" cy="117" r="32"/>
+          <circle class="danCircle" cx="627.5" cy="117" r="32"/>
+          <circle class="noFill" cx="627.5" cy="117" r="32"/>
         </g>
       </g>
       <g id="flag">
-        <rect class="cls-9" x="606.4" y="103.5" width="40.6" height="28.17"/>
-        <line class="cls-9" x1="621.5" y1="103.5" x2="621.5" y2="131.7"/>
-        <line class="cls-9" x1="606.4" y1="117.6" x2="647" y2="117.6"/>
+        <rect class="noFill" x="606.4" y="103.5" width="40.6" height="28.17"/>
+        <line class="noFill" x1="621.5" y1="103.5" x2="621.5" y2="131.7"/>
+        <line class="noFill" x1="606.4" y1="117.6" x2="647" y2="117.6"/>
       </g>
     </g>
     <g id="workicon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(698 82.5)" xlink:href="timeline5.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(698 82.5)" xlink:href="../svg/timeline5.png"/>
         <g>
-          <circle class="cls-25" cx="736.5" cy="121" r="32"/>
-          <circle class="cls-9" cx="736.5" cy="121" r="32"/>
+          <circle class="workCircle" cx="736.5" cy="121" r="32"/>
+          <circle class="noFill" cx="736.5" cy="121" r="32"/>
         </g>
       </g>
       <g id="case">
-        <rect class="cls-9" x="716.7" y="109.5" width="41.2" height="25.97" rx="5.9" ry="5.9"/>
-        <path class="cls-9" d="M992.3,722s.7-6-6.5-6-6.4,6-6.4,6h2.8s-.4-3.4,3.8-3.4,3.8,3.4,3.8,3.4Z" transform="translate(-249 -612.5)"/>
+        <rect class="noFill" x="716.7" y="109.5" width="41.2" height="25.97" rx="5.9" ry="5.9"/>
+        <path class="noFill" d="M992.3,722s.7-6-6.5-6-6.4,6-6.4,6h2.8s-.4-3.4,3.8-3.4,3.8,3.4,3.8,3.4Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
     <g id="searchIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(807 79.5)" xlink:href="timeline6.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(807 79.5)" xlink:href="../svg/timeline6.png"/>
         <g>
-          <circle class="cls-26" cx="845.5" cy="118" r="32"/>
-          <circle class="cls-9" cx="845.5" cy="118" r="32"/>
+          <circle class="searchCircle" cx="845.5" cy="118" r="32"/>
+          <circle class="noFill" cx="845.5" cy="118" r="32"/>
         </g>
       </g>
       <g id="magnifying-glass">
         <path d="M1101.7,713a11.8,11.8,0,1,1-11.7,11.7,11.8,11.8,0,0,1,11.7-11.7m0-1a12.8,12.8,0,1,0,12.8,12.7,12.7,12.7,0,0,0-12.8-12.7Z" transform="translate(-249 -612.5)"/>
         <path d="M1101.7,714.9a9.9,9.9,0,1,1-9.8,9.8,9.9,9.9,0,0,1,9.8-9.8m0-1a10.9,10.9,0,0,0,0,21.7,10.9,10.9,0,1,0,0-21.7Z" transform="translate(-249 -612.5)"/>
-        <polyline class="cls-9" points="830.3 137.9 827.2 134.9 842.3 118.9 846.1 122.6 830.3 137.9"/>
+        <polyline class="noFill" points="830.3 137.9 827.2 134.9 842.3 118.9 846.1 122.6 830.3 137.9"/>
       </g>
     </g>
     <g id="archIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(370 79.5)" xlink:href="timeline7.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(370 79.5)" xlink:href="../svg/timeline7.png"/>
         <g>
-          <circle class="cls-27" cx="408.5" cy="118" r="32"/>
-          <circle class="cls-9" cx="408.5" cy="118" r="32"/>
+          <circle class="archCircle" cx="408.5" cy="118" r="32"/>
+          <circle class="noFill" cx="408.5" cy="118" r="32"/>
         </g>
       </g>
       <g id="plan">
-        <polygon class="cls-9" points="405.9 101.7 422 96.3 428.9 116.5 415.6 121.1 419.4 132.3 400.4 138.8 396 125.7 389.7 107.2 398.7 104.2 399.1 105.5 391.5 108.1 397.2 125 401.3 137.1 417.6 131.6 413.8 120.4 427.2 115.7 421.3 98 406.4 103 405.9 101.7"/>
-        <polyline class="cls-9" points="412 133.4 407.6 120.3 396.9 123.9"/>
-        <line class="cls-9" x1="423.7" y1="105.8" x2="408.7" y2="110.9"/>
+        <polygon class="noFill" points="405.9 101.7 422 96.3 428.9 116.5 415.6 121.1 419.4 132.3 400.4 138.8 396 125.7 389.7 107.2 398.7 104.2 399.1 105.5 391.5 108.1 397.2 125 401.3 137.1 417.6 131.6 413.8 120.4 427.2 115.7 421.3 98 406.4 103 405.9 101.7"/>
+        <polyline class="noFill" points="412 133.4 407.6 120.3 396.9 123.9"/>
+        <line class="noFill" x1="423.7" y1="105.8" x2="408.7" y2="110.9"/>
       </g>
     </g>
     <g id="artIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(260 81.5)" xlink:href="timeline8.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(260 81.5)" xlink:href="../svg/timeline8.png"/>
         <g>
-          <circle class="cls-28" cx="298.5" cy="120" r="32"/>
-          <circle class="cls-9" cx="298.5" cy="120" r="32"/>
+          <circle class="artCircle" cx="298.5" cy="120" r="32"/>
+          <circle class="noFill" cx="298.5" cy="120" r="32"/>
         </g>
       </g>
       <g id="brush">
-        <path class="cls-9" d="M556.6,739l-22.9-26.8h-.5a1.8,1.8,0,0,0-2.5,1.9v.8l23,26.5Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M553.7,741.3s0,5.4,4.2,6.2,6.2,5.4,6.2,5.4.1-6.4-1.8-10a7.8,7.8,0,0,0-5.7-3.9Z" transform="translate(-249 -612.5)"/>
-        <polygon class="cls-9" points="307.6 126.5 305.9 124.6 303.1 127 304.6 129.3 307.6 126.5"/>
+        <path class="noFill" d="M556.6,739l-22.9-26.8h-.5a1.8,1.8,0,0,0-2.5,1.9v.8l23,26.5Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M553.7,741.3s0,5.4,4.2,6.2,6.2,5.4,6.2,5.4.1-6.4-1.8-10a7.8,7.8,0,0,0-5.7-3.9Z" transform="translate(-249 -612.5)"/>
+        <polygon class="noFill" points="307.6 126.5 305.9 124.6 303.1 127 304.6 129.3 307.6 126.5"/>
       </g>
     </g>
     <g id="scoutsIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(151 78.5)" xlink:href="timeline9.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(151 78.5)" xlink:href="../svg/timeline9.png"/>
         <g>
-          <circle class="cls-29" cx="189.5" cy="117" r="32"/>
-          <circle class="cls-9" cx="189.5" cy="117" r="32"/>
+          <circle class="scoutCircle" cx="189.5" cy="117" r="32"/>
+          <circle class="noFill" cx="189.5" cy="117" r="32"/>
         </g>
       </g>
       <g id="lis-flower">
-        <path class="cls-9" d="M436.5,736.3s1.1-1.4-.6-6-4.3-7.9-4.1-12.2,6.2-8.2,6.2-8.2,6.2,4.2,5.6,8.9-4.4,11.3-4.2,14.8.3,2.7.3,2.7Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M441.6,736.3s-1.2-4.2,2.7-8.5a9.4,9.4,0,0,1,7.4-2.9,5.3,5.3,0,0,1,3.6,1.7c1.6,1.8,2.4,3.5,1,6.2a5.5,5.5,0,0,1-5.8,3s4.5-2.6,2.3-5.7-5.7-.4-6.8,1.1a11.1,11.1,0,0,0-1.8,5.1Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M434.3,736.3s1.2-4.2-2.7-8.5a9.4,9.4,0,0,0-7.4-2.9,5.3,5.3,0,0,0-3.6,1.7c-1.6,1.8-2.3,3.5-1,6.2a5.6,5.6,0,0,0,5.9,3s-4.6-2.6-2.4-5.7,5.7-.4,6.8,1.1a11.1,11.1,0,0,1,1.8,5.1Z" transform="translate(-249 -612.5)"/>
-        <line class="cls-9" x1="196.7" y1="123.8" x2="181.2" y2="123.8"/>
-        <path class="cls-9" d="M439.8,738.2a7.2,7.2,0,0,0,1.2,2.9,13.4,13.4,0,0,0,2.6,2,9.7,9.7,0,0,0-2.9,1.7c-1.4,1.2-2.3,4.1-2.3,4.1s-1.5-3.1-3.3-4.2a8.9,8.9,0,0,0-2.4-1.2,16.4,16.4,0,0,0,2.6-2.7,12.2,12.2,0,0,0,1.1-2.6Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M434.6,738.2s-.2,3.4-3.3,3.8a3.6,3.6,0,0,1-4.1-2.4s2.2,2.1,3.7,1.1a4.8,4.8,0,0,0,1.9-2.5Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M441.4,738.2s.3,3.4,3.4,3.8a3.6,3.6,0,0,0,4.1-2.4s-2.3,2.1-3.8,1.1a4.8,4.8,0,0,1-1.9-2.5Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M436.5,736.3s1.1-1.4-.6-6-4.3-7.9-4.1-12.2,6.2-8.2,6.2-8.2,6.2,4.2,5.6,8.9-4.4,11.3-4.2,14.8.3,2.7.3,2.7Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M441.6,736.3s-1.2-4.2,2.7-8.5a9.4,9.4,0,0,1,7.4-2.9,5.3,5.3,0,0,1,3.6,1.7c1.6,1.8,2.4,3.5,1,6.2a5.5,5.5,0,0,1-5.8,3s4.5-2.6,2.3-5.7-5.7-.4-6.8,1.1a11.1,11.1,0,0,0-1.8,5.1Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M434.3,736.3s1.2-4.2-2.7-8.5a9.4,9.4,0,0,0-7.4-2.9,5.3,5.3,0,0,0-3.6,1.7c-1.6,1.8-2.3,3.5-1,6.2a5.6,5.6,0,0,0,5.9,3s-4.6-2.6-2.4-5.7,5.7-.4,6.8,1.1a11.1,11.1,0,0,1,1.8,5.1Z" transform="translate(-249 -612.5)"/>
+        <line class="noFill" x1="196.7" y1="123.8" x2="181.2" y2="123.8"/>
+        <path class="noFill" d="M439.8,738.2a7.2,7.2,0,0,0,1.2,2.9,13.4,13.4,0,0,0,2.6,2,9.7,9.7,0,0,0-2.9,1.7c-1.4,1.2-2.3,4.1-2.3,4.1s-1.5-3.1-3.3-4.2a8.9,8.9,0,0,0-2.4-1.2,16.4,16.4,0,0,0,2.6-2.7,12.2,12.2,0,0,0,1.1-2.6Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M434.6,738.2s-.2,3.4-3.3,3.8a3.6,3.6,0,0,1-4.1-2.4s2.2,2.1,3.7,1.1a4.8,4.8,0,0,0,1.9-2.5Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M441.4,738.2s.3,3.4,3.4,3.8a3.6,3.6,0,0,0,4.1-2.4s-2.3,2.1-3.8,1.1a4.8,4.8,0,0,1-1.9-2.5Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
     <g id="girlIcon">
       <g>
-        <image class="cls-20" width="83" height="83" transform="translate(40 86.5)" xlink:href="timeline10.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(40 86.5)" xlink:href="../svg/timeline10.png"/>
         <g>
-          <circle class="cls-30" cx="78.5" cy="125" r="32"/>
-          <circle class="cls-9" cx="78.5" cy="125" r="32"/>
+          <circle class="girlCircle" cx="78.5" cy="125" r="32"/>
+          <circle class="noFill" cx="78.5" cy="125" r="32"/>
         </g>
       </g>
       <g id="girl">
-        <path class="cls-9" d="M323.5,729.1l-10.8,20.3s3.5,2.7,13.5,3S340,750,340,750l-11.7-20.9-1.5.4a5.4,5.4,0,0,1-1.8,0Z" transform="translate(-249 -612.5)"/>
-        <line class="cls-9" x1="73.8" y1="139.9" x2="73.8" y2="143.6"/>
-        <line class="cls-9" x1="80.3" y1="139.9" x2="80.3" y2="143.6"/>
+        <path class="noFill" d="M323.5,729.1l-10.8,20.3s3.5,2.7,13.5,3S340,750,340,750l-11.7-20.9-1.5.4a5.4,5.4,0,0,1-1.8,0Z" transform="translate(-249 -612.5)"/>
+        <line class="noFill" x1="73.8" y1="139.9" x2="73.8" y2="143.6"/>
+        <line class="noFill" x1="80.3" y1="139.9" x2="80.3" y2="143.6"/>
         <path class="cls-2" d="M333.9,721.8a7.7,7.7,0,0,0-15.4,0,7.6,7.6,0,0,0,2.2,5.5c-.4-2.7-.1-6.7.5-7.9s6.3-1.3,6.3-1.3L329,716l.3,2.1s2.4,1.1,2.8,4.9a8.8,8.8,0,0,1-.4,4.1,7,7,0,0,0,1.3-1.7A8.7,8.7,0,0,0,333.9,721.8Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M332.1,723c-.4-3.8-2.8-4.9-2.8-4.9L329,716l-1.5,2.1s-5.4-.6-6.3,1.3-.9,5.2-.5,7.9a7.6,7.6,0,0,0,5.5,2.2,7.4,7.4,0,0,0,5.5-2.4A8.8,8.8,0,0,0,332.1,723Z" transform="translate(-249 -612.5)"/>
-        <path class="cls-9" d="M331.7,715c-2.3-2.1-8.3-2.5-11-.1s-3.7,6.3-3.5,11.8,7.9,3.2,5.3,3.4c-.9,0-1.5-1.2-1.8-2.8s2.1,2.3,5.2,2.4,6.1-2.8,5.8-2.6a8.5,8.5,0,0,1-1.4,3,27.1,27.1,0,0,0,4.2-1.8C336,727.3,333.9,717.2,331.7,715Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M332.1,723c-.4-3.8-2.8-4.9-2.8-4.9L329,716l-1.5,2.1s-5.4-.6-6.3,1.3-.9,5.2-.5,7.9a7.6,7.6,0,0,0,5.5,2.2,7.4,7.4,0,0,0,5.5-2.4A8.8,8.8,0,0,0,332.1,723Z" transform="translate(-249 -612.5)"/>
+        <path class="noFill" d="M331.7,715c-2.3-2.1-8.3-2.5-11-.1s-3.7,6.3-3.5,11.8,7.9,3.2,5.3,3.4c-.9,0-1.5-1.2-1.8-2.8s2.1,2.3,5.2,2.4,6.1-2.8,5.8-2.6a8.5,8.5,0,0,1-1.4,3,27.1,27.1,0,0,0,4.2-1.8C336,727.3,333.9,717.2,331.7,715Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
     <g id="adjectives">
-      <text class="cls-31" transform="translate(44.2 171.9) rotate(24.3)">D</text>
-      <text class="cls-31" transform="translate(55.4 176.7) rotate(18)">r</text>
-      <text class="cls-31" transform="matrix(0.98, 0.21, -0.21, 0.98, 61.15, 178.63)">e</text>
-      <text class="cls-31" transform="matrix(1, 0.07, -0.07, 1, 70.06, 180.55)">a</text>
-      <text class="cls-31" transform="matrix(0.99, -0.13, 0.13, 0.99, 79.56, 181.35)">m</text>
-      <text class="cls-31" transform="translate(95.3 179) rotate(-16.4)">e</text>
-      <text class="cls-31" transform="translate(103.9 176.4) rotate(-22.1)">r</text>
-      <text class="cls-31" transform="translate(267.6 171.1) rotate(23)">C</text>
-      <text class="cls-31" transform="translate(277.5 175.1) rotate(17.1)">r</text>
-      <text class="cls-31" transform="translate(283.3 176.9) rotate(11.4)">e</text>
-      <text class="cls-31" transform="translate(292.3 178.7) rotate(3)">a</text>
-      <text class="cls-31" transform="translate(301.3 179) rotate(-4.3)">t</text>
-      <text class="cls-31" transform="translate(307.4 178.5) rotate(-8.2)">i</text>
-      <text class="cls-31" transform="matrix(0.98, -0.22, 0.22, 0.98, 311.6, 177.96)">v</text>
-      <text class="cls-31" transform="translate(319.4 176.2) rotate(-18.8)">e</text>
-      <text class="cls-31" transform="translate(473.9 168.1) rotate(29.8)">P</text>
-      <text class="cls-31" transform="matrix(0.92, 0.4, -0.4, 0.92, 483.09, 173.23)">a</text>
-      <text class="cls-31" transform="translate(491.2 176.7) rotate(17.6)">s</text>
-      <text class="cls-31" transform="translate(498.4 178.9) rotate(12)">s</text>
-      <text class="cls-31" transform="matrix(0.99, 0.12, -0.12, 0.99, 505.62, 180.37)">i</text>
-      <text class="cls-31" transform="matrix(1, -0.02, 0.02, 1, 510.15, 181.08)">o</text>
-      <text class="cls-31" transform="translate(519.7 180.9) rotate(-8.3)">n</text>
-      <text class="cls-31" transform="translate(529.9 179.3) rotate(-15.3)">a</text>
-      <text class="cls-31" transform="matrix(0.93, -0.36, 0.36, 0.93, 538.38, 176.91)">t</text>
-      <text class="cls-31" transform="translate(544 174.8) rotate(-26.6)">e</text>
-      <text class="cls-31" transform="translate(693.4 163.3) rotate(32.4)">P</text>
-      <text class="cls-31" transform="matrix(0.9, 0.43, -0.43, 0.9, 702.36, 168.92)">e</text>
-      <text class="cls-31" transform="translate(710.5 172.8) rotate(20.6)">r</text>
-      <text class="cls-31" transform="translate(716.2 174.9) rotate(15.9)">s</text>
-      <text class="cls-31" transform="translate(723.4 177) rotate(9.4)">e</text>
-      <text class="cls-31" transform="translate(732.6 178.4) rotate(0.8)">v</text>
-      <text class="cls-31" transform="translate(740.7 178.5) rotate(-6.3)">e</text>
-      <text class="cls-31" transform="translate(749.7 177.4) rotate(-11.9)">r</text>
-      <text class="cls-31" transform="matrix(0.96, -0.3, 0.3, 0.96, 755.63, 176.21)">a</text>
-      <text class="cls-31" transform="matrix(0.91, -0.41, 0.41, 0.91, 764.25, 173.54)">n</text>
-      <text class="cls-31" transform="matrix(0.86, -0.52, 0.52, 0.86, 773.48, 169.2)">t</text>
-      <text class="cls-31" transform="matrix(0.89, 0.45, -0.45, 0.89, 922.13, 170.63)">I</text>
-      <text class="cls-31" transform="translate(926.3 172.9) rotate(21.9)">n</text>
-      <text class="cls-31" transform="translate(935.8 176.6) rotate(15.7)">s</text>
-      <text class="cls-31" transform="matrix(0.99, 0.15, -0.15, 0.99, 943.12, 178.67)">p</text>
-      <text class="cls-31" transform="translate(953.3 180) rotate(1)">i</text>
-      <text class="cls-31" transform="translate(957.6 180) rotate(-3.7)">r</text>
-      <text class="cls-31" transform="translate(963.5 179.6) rotate(-7.5)">i</text>
-      <text class="cls-31" transform="matrix(0.98, -0.22, 0.22, 0.98, 967.81, 179.15)">n</text>
-      <text class="cls-31" transform="matrix(0.94, -0.35, 0.35, 0.94, 977.86, 176.82)">g</text>
-      <text class="cls-31" transform="translate(163.4 78.5) rotate(-31.8)">F</text>
-      <text class="cls-31" transform="translate(170.5 74.2) rotate(-21.5)">r</text>
-      <text class="cls-31" transform="translate(175.3 72.3) rotate(-14.8)">i</text>
-      <text class="cls-31" transform="translate(178.6 71.2) rotate(-6.3)">e</text>
-      <text class="cls-31" transform="translate(186.6 70.3) rotate(5.1)">n</text>
-      <text class="cls-31" transform="translate(195.6 71) rotate(16.7)">d</text>
-      <text class="cls-31" transform="matrix(0.91, 0.42, -0.42, 0.91, 204.3, 73.82)">l</text>
-      <text class="cls-31" transform="translate(207.5 75.2) rotate(31.6)">y</text>
-      <text class="cls-31" transform="translate(382.7 79.9) rotate(-31.9)">R</text>
-      <text class="cls-31" transform="matrix(0.95, -0.32, 0.32, 0.95, 390.87, 74.82)">e</text>
-      <text class="cls-31" transform="translate(398.3 72.3) rotate(-6.9)">a</text>
-      <text class="cls-31" transform="translate(406.1 71.5) rotate(0.9)">l</text>
-      <text class="cls-31" transform="translate(409.7 71.5) rotate(5.5)">i</text>
-      <text class="cls-31" transform="matrix(0.98, 0.21, -0.21, 0.98, 413.23, 71.76)">s</text>
-      <text class="cls-31" transform="translate(419.6 73.1) rotate(19.6)">t</text>
-      <text class="cls-31" transform="matrix(0.9, 0.43, -0.43, 0.9, 424.73, 74.99)">i</text>
-      <text class="cls-31" transform="translate(427.9 76.4) rotate(32.3)">c</text>
-      <text class="cls-31" transform="translate(591 89.5) rotate(-53.2)">A</text>
-      <text class="cls-31" transform="translate(596.6 81.8) rotate(-40.8)">d</text>
-      <text class="cls-31" transform="matrix(0.88, -0.48, 0.48, 0.88, 603.47, 75.97)">v</text>
-      <text class="cls-31" transform="translate(609.5 72.5) rotate(-17.5)">e</text>
-      <text class="cls-31" transform="translate(617.1 70.1) rotate(-4.9)">n</text>
-      <text class="cls-31" transform="matrix(1, 0.08, -0.08, 1, 626.13, 69.41)">t</text>
-      <text class="cls-31" transform="matrix(0.97, 0.24, -0.24, 0.97, 631.46, 69.67)">u</text>
-      <text class="cls-31" transform="translate(640.2 72) rotate(23.1)">r</text>
-      <text class="cls-31" transform="translate(645 73.8) rotate(31.5)">o</text>
-      <text class="cls-31" transform="matrix(0.74, 0.67, -0.67, 0.74, 652.13, 78.13)">u</text>
-      <text class="cls-31" transform="translate(658.7 84.3) rotate(52.1)">s</text>
-      <text class="cls-31" transform="matrix(0.87, -0.49, 0.49, 0.87, 820.51, 75.12)">H</text>
-      <text class="cls-31" transform="matrix(0.97, -0.25, 0.25, 0.97, 829.98, 69.89)">o</text>
-      <text class="cls-31" transform="matrix(1, -0.04, 0.04, 1, 837.96, 67.71)">p</text>
-      <text class="cls-31" transform="translate(847 67.4) rotate(8.9)">e</text>
-      <text class="cls-31" transform="translate(855 68.7) rotate(16.9)">f</text>
-      <text class="cls-31" transform="matrix(0.9, 0.43, -0.43, 0.9, 859.31, 69.83)">u</text>
-      <text class="cls-31" transform="matrix(0.83, 0.55, -0.55, 0.83, 867.43, 73.9)">l</text>
-      <text class="cls-31" transform="translate(1045.1 71.6) rotate(-20.5)">V</text>
-      <text class="cls-31" transform="translate(1053.7 68.6) rotate(-11.1)">i</text>
-      <text class="cls-31" transform="translate(1057.1 67.8) rotate(-3.9)">s</text>
-      <text class="cls-31" transform="matrix(1, 0.05, -0.05, 1, 1063.66, 67.46)">i</text>
-      <text class="cls-31" transform="translate(1067.1 67.4) rotate(10.5)">o</text>
-      <text class="cls-31" transform="matrix(0.93, 0.37, -0.37, 0.93, 1075.35, 68.89)">n</text>
-      <text class="cls-31" transform="translate(30 77.3) rotate(-90)">P<tspan x="9.8" y="0">a</tspan><tspan x="18.1" y="0">s</tspan><tspan x="25" y="0">t</tspan></text>
-      <text class="cls-31" transform="translate(1128 207.5) rotate(-90)">F<tspan x="8.6" y="0">u</tspan><tspan x="18" y="0">t</tspan><tspan x="23.7" y="0">u</tspan><tspan x="33.1" y="0">r</tspan><tspan x="38.6" y="0">e</tspan></text>
+      <text class="adjeLeter" transform="translate(44.2 171.9) rotate(24.3)">D</text>
+      <text class="adjeLeter" transform="translate(55.4 176.7) rotate(18)">r</text>
+      <text class="adjeLeter" transform="matrix(0.98, 0.21, -0.21, 0.98, 61.15, 178.63)">e</text>
+      <text class="adjeLeter" transform="matrix(1, 0.07, -0.07, 1, 70.06, 180.55)">a</text>
+      <text class="adjeLeter" transform="matrix(0.99, -0.13, 0.13, 0.99, 79.56, 181.35)">m</text>
+      <text class="adjeLeter" transform="translate(95.3 179) rotate(-16.4)">e</text>
+      <text class="adjeLeter" transform="translate(103.9 176.4) rotate(-22.1)">r</text>
+      <text class="adjeLeter" transform="translate(267.6 171.1) rotate(23)">C</text>
+      <text class="adjeLeter" transform="translate(277.5 175.1) rotate(17.1)">r</text>
+      <text class="adjeLeter" transform="translate(283.3 176.9) rotate(11.4)">e</text>
+      <text class="adjeLeter" transform="translate(292.3 178.7) rotate(3)">a</text>
+      <text class="adjeLeter" transform="translate(301.3 179) rotate(-4.3)">t</text>
+      <text class="adjeLeter" transform="translate(307.4 178.5) rotate(-8.2)">i</text>
+      <text class="adjeLeter" transform="matrix(0.98, -0.22, 0.22, 0.98, 311.6, 177.96)">v</text>
+      <text class="adjeLeter" transform="translate(319.4 176.2) rotate(-18.8)">e</text>
+      <text class="adjeLeter" transform="translate(473.9 168.1) rotate(29.8)">P</text>
+      <text class="adjeLeter" transform="matrix(0.92, 0.4, -0.4, 0.92, 483.09, 173.23)">a</text>
+      <text class="adjeLeter" transform="translate(491.2 176.7) rotate(17.6)">s</text>
+      <text class="adjeLeter" transform="translate(498.4 178.9) rotate(12)">s</text>
+      <text class="adjeLeter" transform="matrix(0.99, 0.12, -0.12, 0.99, 505.62, 180.37)">i</text>
+      <text class="adjeLeter" transform="matrix(1, -0.02, 0.02, 1, 510.15, 181.08)">o</text>
+      <text class="adjeLeter" transform="translate(519.7 180.9) rotate(-8.3)">n</text>
+      <text class="adjeLeter" transform="translate(529.9 179.3) rotate(-15.3)">a</text>
+      <text class="adjeLeter" transform="matrix(0.93, -0.36, 0.36, 0.93, 538.38, 176.91)">t</text>
+      <text class="adjeLeter" transform="translate(544 174.8) rotate(-26.6)">e</text>
+      <text class="adjeLeter" transform="translate(693.4 163.3) rotate(32.4)">P</text>
+      <text class="adjeLeter" transform="matrix(0.9, 0.43, -0.43, 0.9, 702.36, 168.92)">e</text>
+      <text class="adjeLeter" transform="translate(710.5 172.8) rotate(20.6)">r</text>
+      <text class="adjeLeter" transform="translate(716.2 174.9) rotate(15.9)">s</text>
+      <text class="adjeLeter" transform="translate(723.4 177) rotate(9.4)">e</text>
+      <text class="adjeLeter" transform="translate(732.6 178.4) rotate(0.8)">v</text>
+      <text class="adjeLeter" transform="translate(740.7 178.5) rotate(-6.3)">e</text>
+      <text class="adjeLeter" transform="translate(749.7 177.4) rotate(-11.9)">r</text>
+      <text class="adjeLeter" transform="matrix(0.96, -0.3, 0.3, 0.96, 755.63, 176.21)">a</text>
+      <text class="adjeLeter" transform="matrix(0.91, -0.41, 0.41, 0.91, 764.25, 173.54)">n</text>
+      <text class="adjeLeter" transform="matrix(0.86, -0.52, 0.52, 0.86, 773.48, 169.2)">t</text>
+      <text class="adjeLeter" transform="matrix(0.89, 0.45, -0.45, 0.89, 922.13, 170.63)">I</text>
+      <text class="adjeLeter" transform="translate(926.3 172.9) rotate(21.9)">n</text>
+      <text class="adjeLeter" transform="translate(935.8 176.6) rotate(15.7)">s</text>
+      <text class="adjeLeter" transform="matrix(0.99, 0.15, -0.15, 0.99, 943.12, 178.67)">p</text>
+      <text class="adjeLeter" transform="translate(953.3 180) rotate(1)">i</text>
+      <text class="adjeLeter" transform="translate(957.6 180) rotate(-3.7)">r</text>
+      <text class="adjeLeter" transform="translate(963.5 179.6) rotate(-7.5)">i</text>
+      <text class="adjeLeter" transform="matrix(0.98, -0.22, 0.22, 0.98, 967.81, 179.15)">n</text>
+      <text class="adjeLeter" transform="matrix(0.94, -0.35, 0.35, 0.94, 977.86, 176.82)">g</text>
+      <text class="adjeLeter" transform="translate(163.4 78.5) rotate(-31.8)">F</text>
+      <text class="adjeLeter" transform="translate(170.5 74.2) rotate(-21.5)">r</text>
+      <text class="adjeLeter" transform="translate(175.3 72.3) rotate(-14.8)">i</text>
+      <text class="adjeLeter" transform="translate(178.6 71.2) rotate(-6.3)">e</text>
+      <text class="adjeLeter" transform="translate(186.6 70.3) rotate(5.1)">n</text>
+      <text class="adjeLeter" transform="translate(195.6 71) rotate(16.7)">d</text>
+      <text class="adjeLeter" transform="matrix(0.91, 0.42, -0.42, 0.91, 204.3, 73.82)">l</text>
+      <text class="adjeLeter" transform="translate(207.5 75.2) rotate(31.6)">y</text>
+      <text class="adjeLeter" transform="translate(382.7 79.9) rotate(-31.9)">R</text>
+      <text class="adjeLeter" transform="matrix(0.95, -0.32, 0.32, 0.95, 390.87, 74.82)">e</text>
+      <text class="adjeLeter" transform="translate(398.3 72.3) rotate(-6.9)">a</text>
+      <text class="adjeLeter" transform="translate(406.1 71.5) rotate(0.9)">l</text>
+      <text class="adjeLeter" transform="translate(409.7 71.5) rotate(5.5)">i</text>
+      <text class="adjeLeter" transform="matrix(0.98, 0.21, -0.21, 0.98, 413.23, 71.76)">s</text>
+      <text class="adjeLeter" transform="translate(419.6 73.1) rotate(19.6)">t</text>
+      <text class="adjeLeter" transform="matrix(0.9, 0.43, -0.43, 0.9, 424.73, 74.99)">i</text>
+      <text class="adjeLeter" transform="translate(427.9 76.4) rotate(32.3)">c</text>
+      <text class="adjeLeter" transform="translate(591 89.5) rotate(-53.2)">A</text>
+      <text class="adjeLeter" transform="translate(596.6 81.8) rotate(-40.8)">d</text>
+      <text class="adjeLeter" transform="matrix(0.88, -0.48, 0.48, 0.88, 603.47, 75.97)">v</text>
+      <text class="adjeLeter" transform="translate(609.5 72.5) rotate(-17.5)">e</text>
+      <text class="adjeLeter" transform="translate(617.1 70.1) rotate(-4.9)">n</text>
+      <text class="adjeLeter" transform="matrix(1, 0.08, -0.08, 1, 626.13, 69.41)">t</text>
+      <text class="adjeLeter" transform="matrix(0.97, 0.24, -0.24, 0.97, 631.46, 69.67)">u</text>
+      <text class="adjeLeter" transform="translate(640.2 72) rotate(23.1)">r</text>
+      <text class="adjeLeter" transform="translate(645 73.8) rotate(31.5)">o</text>
+      <text class="adjeLeter" transform="matrix(0.74, 0.67, -0.67, 0.74, 652.13, 78.13)">u</text>
+      <text class="adjeLeter" transform="translate(658.7 84.3) rotate(52.1)">s</text>
+      <text class="adjeLeter" transform="matrix(0.87, -0.49, 0.49, 0.87, 820.51, 75.12)">H</text>
+      <text class="adjeLeter" transform="matrix(0.97, -0.25, 0.25, 0.97, 829.98, 69.89)">o</text>
+      <text class="adjeLeter" transform="matrix(1, -0.04, 0.04, 1, 837.96, 67.71)">p</text>
+      <text class="adjeLeter" transform="translate(847 67.4) rotate(8.9)">e</text>
+      <text class="adjeLeter" transform="translate(855 68.7) rotate(16.9)">f</text>
+      <text class="adjeLeter" transform="matrix(0.9, 0.43, -0.43, 0.9, 859.31, 69.83)">u</text>
+      <text class="adjeLeter" transform="matrix(0.83, 0.55, -0.55, 0.83, 867.43, 73.9)">l</text>
+      <text class="adjeLeter" transform="translate(1045.1 71.6) rotate(-20.5)">V</text>
+      <text class="adjeLeter" transform="translate(1053.7 68.6) rotate(-11.1)">i</text>
+      <text class="adjeLeter" transform="translate(1057.1 67.8) rotate(-3.9)">s</text>
+      <text class="adjeLeter" transform="matrix(1, 0.05, -0.05, 1, 1063.66, 67.46)">i</text>
+      <text class="adjeLeter" transform="translate(1067.1 67.4) rotate(10.5)">o</text>
+      <text class="adjeLeter" transform="matrix(0.93, 0.37, -0.37, 0.93, 1075.35, 68.89)">n</text>
+      <text class="adjeLeter" transform="translate(30 77.3) rotate(-90)">P<tspan x="9.8" y="0">a</tspan><tspan x="18.1" y="0">s</tspan><tspan x="25" y="0">t</tspan></text>
+      <text class="adjeLeter" transform="translate(1128 207.5) rotate(-90)">F<tspan x="8.6" y="0">u</tspan><tspan x="18" y="0">t</tspan><tspan x="23.7" y="0">u</tspan><tspan x="33.1" y="0">r</tspan><tspan x="38.6" y="0">e</tspan></text>
     </g>
     <g id="movecircle">
-      <circle class="cls-32" cx="23.3" cy="16" r="9.5"/>
+      <circle class="dragCircle" cx="23.3" cy="16" r="9.5"/>
     </g>
   </g>
 </svg>

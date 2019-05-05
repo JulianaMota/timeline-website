@@ -4,14 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="css/style.scss">
+    <link rel="stylesheet" href="css/style.css" />
     <title>Document</title>
   </head>
   <body>
+    <header>
+      <h1>My Timeline Story</h1>
+    </header>
     <main>
       <section id="illustration-svg"></section>
       <section id="time-line-svg"></section>
     </main>
+    <template>
+      <div data-field="backImg"></div>
+      <div data-field="svgIllustation"></div>
+      <article>
+        <h2 data-field="title"></h2>
+        <p data-field="description1"></p>
+        <p data-field="description2"></p>
+      </article>
+    </template>
     <script src="js/script.js"></script>
   </body>
 </html>

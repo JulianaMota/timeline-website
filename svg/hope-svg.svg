@@ -1,120 +1,120 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607" height="294.7" viewBox="0 0 607 294.7">
   <defs>
     <style>
-      .cls-1 {
-        fill: url(#agua);
+      .hope-cls-1 {
+        fill: url(#hope-water);
       }
 
-      .cls-2 {
-        fill: url(#madeira);
+      .hope-cls-2 {
+        fill: url(#hope-wood);
       }
 
-      .cls-3 {
+      .hope-cls-3 {
         fill: none;
         stroke: #ffcbb6;
         stroke-miterlimit: 10;
       }
 
-      .cls-4 {
+      .hope-cls-4 {
         fill: #e67399;
       }
 
-      .cls-5 {
+      .hope-cls-5 {
         fill: #bc8e4a;
       }
 
-      .cls-6 {
+      .hope-cls-6 {
         fill: #ffcbb6;
       }
 
-      .cls-7 {
+      .hope-cls-7 {
         fill: #af4925;
       }
 
-      .cls-8 {
-        fill: url(#white_gradient);
+      .hope-cls-8 {
+        fill: url(#hope-white_gradient);
       }
 
-      .cls-9 {
-        fill: url(#agua-2);
+      .hope-cls-9 {
+        fill: url(#hope-water-2);
       }
 
-      .cls-10 {
-        fill: url(#white_gradient-2);
+      .hope-cls-10 {
+        fill: url(#hope-white_gradient-2);
       }
 
-      .cls-11 {
-        fill: url(#madeira-2);
+      .hope-cls-11 {
+        fill: url(#hope-wood-2);
       }
 
-      .cls-12 {
-        fill: url(#white_gradient-3);
+      .hope-cls-12 {
+        fill: url(#hope-white_gradient-3);
       }
 
-      .cls-13 {
-        fill: url(#linear-gradient);
+      .hope-cls-13 {
+        fill: url(#hope-linear-gradient);
       }
 
-      .cls-14 {
+      .hope-cls-14 {
         fill: #b3b3b3;
       }
 
-      .cls-15 {
+      .hope-cls-15 {
         fill: #c1272d;
       }
 
-      .cls-16 {
+      .hope-cls-16 {
         fill: #3fa9f5;
       }
     </style>
-    <linearGradient id="agua" x1="50.31" y1="208.16" x2="387.31" y2="208.16" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hope-water" x1="50.31" y1="208.16" x2="387.31" y2="208.16" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#b1edc2"/>
       <stop offset="1" stop-color="#004c68"/>
     </linearGradient>
-    <linearGradient id="madeira" x1="20.4" y1="505.16" x2="627.44" y2="505.16" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hope-wood" x1="20.4" y1="505.16" x2="627.44" y2="505.16" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#cca664"/>
       <stop offset="1" stop-color="#4e0e0c"/>
     </linearGradient>
-    <linearGradient id="white_gradient" data-name="white gradient" x1="477.72" y1="443.64" x2="535.72" y2="443.64" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hope-white_gradient" data-name="white gradient" x1="477.72" y1="443.64" x2="535.72" y2="443.64" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#b3b3b3"/>
     </linearGradient>
-    <linearGradient id="agua-2" data-name="agua" x1="484.72" y1="451.64" x2="531.85" y2="451.64" xlink:href="#agua"/>
-    <linearGradient id="white_gradient-2" x1="477.72" y1="476.16" x2="535.72" y2="476.16" xlink:href="#white_gradient"/>
-    <linearGradient id="madeira-2" data-name="madeira" x1="488.31" y1="144.66" x2="523.31" y2="144.66" xlink:href="#madeira"/>
-    <linearGradient id="white_gradient-3" x1="536.01" y1="472.66" x2="566.72" y2="472.66" xlink:href="#white_gradient"/>
-    <linearGradient id="linear-gradient" x1="40.31" y1="170.16" x2="360.31" y2="170.16" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hope-water-2" data-name="hope-water" x1="484.72" y1="451.64" x2="531.85" y2="451.64" xlink:href="#hope-water"/>
+    <linearGradient id="hope-white_gradient-2" x1="477.72" y1="476.16" x2="535.72" y2="476.16" xlink:href="#hope-white_gradient"/>
+    <linearGradient id="hope-wood-2" data-name="hope-wood" x1="488.31" y1="144.66" x2="523.31" y2="144.66" xlink:href="#hope-wood"/>
+    <linearGradient id="hope-white_gradient-3" x1="536.01" y1="472.66" x2="566.72" y2="472.66" xlink:href="#hope-white_gradient"/>
+    <linearGradient id="hope-linear-gradient" x1="40.31" y1="170.16" x2="360.31" y2="170.16" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#e6e6e6"/>
       <stop offset="1" stop-color="#666"/>
     </linearGradient>
   </defs>
   <title>hope-svg</title>
   <g id="floor-hop">
-    <polygon class="cls-1" points="387.3 218.7 50.3 218.7 67.3 200.7 387.3 197.7 387.3 218.7"/>
-    <path class="cls-2" d="M612.9,548.7H31.6A11.3,11.3,0,0,1,23.2,530l53.4-60.1,487.3-8.2,59.5,62.5A14.5,14.5,0,0,1,612.9,548.7Z" transform="translate(-20.4 -254)"/>
+    <polygon class="hope-cls-1" points="387.3 218.7 50.3 218.7 67.3 200.7 387.3 197.7 387.3 218.7"/>
+    <path class="hope-cls-2" d="M612.9,548.7H31.6A11.3,11.3,0,0,1,23.2,530l53.4-60.1,487.3-8.2,59.5,62.5A14.5,14.5,0,0,1,612.9,548.7Z" transform="translate(-20.4 -254)"/>
   </g>
   <g id="girl-hop">
     <g>
-      <line class="cls-3" x1="390" y1="236.4" x2="390" y2="252.6"/>
-      <line class="cls-3" x1="418.4" y1="236.3" x2="418.4" y2="252.6"/>
-      <path class="cls-4" d="M412.8,318.4,378.1,469.7s11.4,20.4,43.4,22.6,44.7-18,44.7-18L428.4,318.4l-4.9,2.8a5.5,5.5,0,0,1-5.8,0Z" transform="translate(-20.4 -254)"/>
-      <path class="cls-5" d="M446.9,261.7c-9.9-9.3-36.3-10.9-48.1-.7s-15.8,27.7-15.2,51.4,34.8,14.1,23.4,14.9c-4.3.3-6.7-5-7.9-12.2-3-3,9.2,10.3,22.5,10.6s26.6-12.3,25.6-11.2a41.6,41.6,0,0,1-6.2,12.8s11.5-4,18.1-8S456.8,270.9,446.9,261.7Z" transform="translate(-20.4 -254)"/>
-      <path class="cls-6" d="M448.9,296.6c-1.8-16.7-12.2-21.8-12.2-21.8l-1.3-8.9-6.6,8.9s-23.8-2.6-27.7,6c-2.5,5.3-4,22.4-2,34.3a33.7,33.7,0,0,0,48.1-.6A45.5,45.5,0,0,0,448.9,296.6Z" transform="translate(-20.4 -254)"/>
-      <path class="cls-7" d="M412.7,307.5a6.8,6.8,0,0,0,4.1,3.3,15,15,0,0,0,5.2.9,13.1,13.1,0,0,0,5.2-1.1,12.2,12.2,0,0,0,4.4-3.1,10.4,10.4,0,0,1-4,3.8,12.2,12.2,0,0,1-5.6,1.4,14.6,14.6,0,0,1-5.5-1.1A6.2,6.2,0,0,1,412.7,307.5Z" transform="translate(-20.4 -254)"/>
+      <line class="hope-cls-3" x1="390" y1="236.4" x2="390" y2="252.6"/>
+      <line class="hope-cls-3" x1="418.4" y1="236.3" x2="418.4" y2="252.6"/>
+      <path class="hope-cls-4" d="M412.8,318.4,378.1,469.7s11.4,20.4,43.4,22.6,44.7-18,44.7-18L428.4,318.4l-4.9,2.8a5.5,5.5,0,0,1-5.8,0Z" transform="translate(-20.4 -254)"/>
+      <path class="hope-cls-5" d="M446.9,261.7c-9.9-9.3-36.3-10.9-48.1-.7s-15.8,27.7-15.2,51.4,34.8,14.1,23.4,14.9c-4.3.3-6.7-5-7.9-12.2-3-3,9.2,10.3,22.5,10.6s26.6-12.3,25.6-11.2a41.6,41.6,0,0,1-6.2,12.8s11.5-4,18.1-8S456.8,270.9,446.9,261.7Z" transform="translate(-20.4 -254)"/>
+      <path class="hope-cls-6" d="M448.9,296.6c-1.8-16.7-12.2-21.8-12.2-21.8l-1.3-8.9-6.6,8.9s-23.8-2.6-27.7,6c-2.5,5.3-4,22.4-2,34.3a33.7,33.7,0,0,0,48.1-.6A45.5,45.5,0,0,0,448.9,296.6Z" transform="translate(-20.4 -254)"/>
+      <path class="hope-cls-7" d="M412.7,307.5a6.8,6.8,0,0,0,4.1,3.3,15,15,0,0,0,5.2.9,13.1,13.1,0,0,0,5.2-1.1,12.2,12.2,0,0,0,4.4-3.1,10.4,10.4,0,0,1-4,3.8,12.2,12.2,0,0,1-5.6,1.4,14.6,14.6,0,0,1-5.5-1.1A6.2,6.2,0,0,1,412.7,307.5Z" transform="translate(-20.4 -254)"/>
     </g>
   </g>
   <g id="bucket-hop">
-    <path class="cls-8" d="M477.7,444.7s10-17,31-16,27,13,27,13a32.4,32.4,0,0,1-29,17C484.7,458.7,477.7,444.7,477.7,444.7Z" transform="translate(-20.4 -254)"/>
-    <path class="cls-9" d="M484.7,452.5s8.1-13.8,25.2-13,22,10.5,22,10.5a26.3,26.3,0,0,1-23.6,13.8C490.4,463.8,484.7,452.5,484.7,452.5Z" transform="translate(-20.4 -254)"/>
-    <path class="cls-10" d="M483.7,498.7s4,12,20,12,26-12,26-12l6-57s-10,16-29,17-29-14-29-14Z" transform="translate(-20.4 -254)"/>
-    <polygon class="cls-11" points="488.3 77.2 519.3 214.7 523.3 214.7 522.8 212.5 491.3 74.7 488.3 77.2"/>
-    <path class="cls-12" d="M561.6,463.2c9.6,2.6,2.7,23.5,2.7,23.5s-1.3-2.6-8.2-4-19.1,0-17.8-5.2-6.8-15.6,1.4-18.2S561.6,463.2,561.6,463.2Z" transform="translate(-20.4 -254)"/>
+    <path class="hope-cls-8" d="M477.7,444.7s10-17,31-16,27,13,27,13a32.4,32.4,0,0,1-29,17C484.7,458.7,477.7,444.7,477.7,444.7Z" transform="translate(-20.4 -254)"/>
+    <path class="hope-cls-9" d="M484.7,452.5s8.1-13.8,25.2-13,22,10.5,22,10.5a26.3,26.3,0,0,1-23.6,13.8C490.4,463.8,484.7,452.5,484.7,452.5Z" transform="translate(-20.4 -254)"/>
+    <path class="hope-cls-10" d="M483.7,498.7s4,12,20,12,26-12,26-12l6-57s-10,16-29,17-29-14-29-14Z" transform="translate(-20.4 -254)"/>
+    <polygon class="hope-cls-11" points="488.3 77.2 519.3 214.7 523.3 214.7 522.8 212.5 491.3 74.7 488.3 77.2"/>
+    <path class="hope-cls-12" d="M561.6,463.2c9.6,2.6,2.7,23.5,2.7,23.5s-1.3-2.6-8.2-4-19.1,0-17.8-5.2-6.8-15.6,1.4-18.2S561.6,463.2,561.6,463.2Z" transform="translate(-20.4 -254)"/>
   </g>
   <g id="cruise-hop">
     <rect x="96.3" y="40" width="21.5" height="64.4"/>
     <rect x="131.8" y="40" width="21.5" height="64.4"/>
-    <polygon class="cls-13" points="87.3 207.7 40.3 132.7 360.3 132.7 282.3 206.1 87.3 207.7"/>
-    <polygon class="cls-14" points="76.3 79.7 57.3 132.7 293.3 132.7 230.3 76.7 76.3 79.7"/>
+    <polygon class="hope-cls-13" points="87.3 207.7 40.3 132.7 360.3 132.7 282.3 206.1 87.3 207.7"/>
+    <polygon class="hope-cls-14" points="76.3 79.7 57.3 132.7 293.3 132.7 230.3 76.7 76.3 79.7"/>
     <ellipse cx="93.1" cy="159.2" rx="7.8" ry="8.5"/>
     <ellipse cx="120.7" cy="159.2" rx="7.8" ry="8.5"/>
     <ellipse cx="152.6" cy="159.2" rx="7.8" ry="8.5"/>
@@ -123,7 +123,7 @@
     <ellipse cx="240.8" cy="159.2" rx="7.8" ry="8.5"/>
     <ellipse cx="270.5" cy="159.2" rx="7.8" ry="8.5"/>
     <polygon points="107.3 97.7 250.4 94.5 269.5 111.5 110.3 111.7 107.3 97.7"/>
-    <polygon class="cls-15" points="209.3 212.7 205.7 294.7 325 294.7 233 212.9 209.3 212.7"/>
-    <polygon class="cls-16" points="388.8 68.7 383.3 70.7 383.3 80.7 392.3 83.7 417.3 81.7 419.3 74.7 419.3 68.7 398.3 72.7 388.8 68.7"/>
+    <polygon class="hope-cls-15" points="209.3 212.7 205.7 294.7 325 294.7 233 212.9 209.3 212.7"/>
+    <polygon class="hope-cls-16" points="388.8 68.7 383.3 70.7 383.3 80.7 392.3 83.7 417.3 81.7 419.3 74.7 419.3 68.7 398.3 72.7 388.8 68.7"/>
   </g>
 </svg>

@@ -1,65 +1,65 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="609.5" height="423.3" viewBox="0 0 609.5 423.3">
   <defs>
     <style>
-      .cls-1 {
+      .dream-cls-1 {
         fill: url(#agua);
       }
 
-      .cls-2 {
+      .dream-cls-2 {
         fill: url(#erva);
       }
 
-      .cls-3 {
+      .dream-cls-3 {
         fill: url(#madeira);
       }
 
-      .cls-4 {
-        fill: url(#linear-gradient);
+      .dream-cls-4 {
+        fill: url(#create-linear-gradient);
       }
 
-      .cls-5 {
-        fill: url(#linear-gradient-2);
+      .dream-cls-5 {
+        fill: url(#create-linear-gradient-2);
       }
 
-      .cls-6 {
-        fill: url(#linear-gradient-3);
+      .dream-cls-6 {
+        fill: url(#create-linear-gradient-3);
       }
 
-      .cls-7, .cls-9 {
+      .dream-cls-7, .dream-cls-9 {
         fill: none;
       }
 
-      .cls-8 {
+      .dream-cls-8 {
         fill: #e67399;
       }
 
-      .cls-9 {
+      .dream-cls-9 {
         stroke: #ffcbb6;
         stroke-miterlimit: 10;
       }
 
-      .cls-10 {
+      .dream-cls-10 {
         fill: #bc8e4a;
       }
 
-      .cls-11 {
+      .dream-cls-11 {
         fill: #ffcbb6;
       }
 
-      .cls-12 {
+      .dream-cls-12 {
         fill: #af4925;
       }
 
-      .cls-13 {
-        fill: url(#linear-gradient-4);
+      .dream-cls-13 {
+        fill: url(#create-linear-gradient-4);
       }
 
-      .cls-14 {
-        fill: url(#linear-gradient-5);
+      .dream-cls-14 {
+        fill: url(#create-linear-gradient-5);
       }
 
-      .cls-15 {
-        fill: url(#white_gradient);
+      .dream-cls-15 {
+        fill: url(#create-white_gradient);
       }
     </style>
     <linearGradient id="agua" x1="32.7" y1="518" x2="642.17" y2="518" gradientUnits="userSpaceOnUse">
@@ -74,37 +74,37 @@
       <stop offset="0" stop-color="#cca664"/>
       <stop offset="1" stop-color="#4e0e0c"/>
     </linearGradient>
-    <linearGradient id="linear-gradient" x1="286.3" y1="93" x2="428.3" y2="93" xlink:href="#erva"/>
-    <linearGradient id="linear-gradient-2" x1="357.3" y1="123.5" x2="484.3" y2="123.5" xlink:href="#erva"/>
-    <linearGradient id="linear-gradient-3" x1="357.3" y1="54.5" x2="466.3" y2="54.5" xlink:href="#erva"/>
-    <linearGradient id="linear-gradient-4" x1="261.3" y1="152" x2="269.3" y2="152" gradientUnits="userSpaceOnUse">
+    <linearGradient id="create-linear-gradient" x1="286.3" y1="93" x2="428.3" y2="93" xlink:href="#erva"/>
+    <linearGradient id="create-linear-gradient-2" x1="357.3" y1="123.5" x2="484.3" y2="123.5" xlink:href="#erva"/>
+    <linearGradient id="create-linear-gradient-3" x1="357.3" y1="54.5" x2="466.3" y2="54.5" xlink:href="#erva"/>
+    <linearGradient id="create-linear-gradient-4" x1="261.3" y1="152" x2="269.3" y2="152" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#b3b3b3"/>
     </linearGradient>
-    <linearGradient id="linear-gradient-5" x1="247.3" y1="143.5" x2="260.3" y2="143.5" xlink:href="#linear-gradient-4"/>
-    <linearGradient id="white_gradient" data-name="white gradient" x1="181.3" y1="119" x2="251.3" y2="119" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="create-linear-gradient-5" x1="247.3" y1="143.5" x2="260.3" y2="143.5" xlink:href="#create-linear-gradient-4"/>
+    <linearGradient id="create-white_gradient" data-name="white gradient" x1="181.3" y1="119" x2="251.3" y2="119" xlink:href="#create-linear-gradient-4"/>
   </defs>
   <title>dreamer-svg</title>
-  <path class="cls-1" d="M190,475c-.4-.1-74.1-21-122-3-5.3,2-14.5,6-22,15-12.7,15.2-17.6,41.1-9,57,19.3,35.9,111.1,30.1,171,13,33.4-9.5,39.3-17.6,66-19,43.6-2.3,57.1,17.4,105,30,29.7,7.8,23.2-.1,159-4,57.4-1.6,87-1,99-21,6.3-10.5,7.1-25.4,1-36-10.7-18.5-40.4-19.6-55-20-87.5-2.2-196.6-.2-215,0C281.3,488,237.9,488.6,190,475Z" transform="translate(-32.7 -148)"/>
-  <path class="cls-2" d="M111.5,524.5s132-31,176-18,111,41,153,33,97-6,101-24-2-41-41-70-134-93-168-77-33,19-74,40-39,45-89,57-61,27-72,39S111.5,524.5,111.5,524.5Z" transform="translate(-32.7 -148)"/>
+  <path class="dream-cls-1" d="M190,475c-.4-.1-74.1-21-122-3-5.3,2-14.5,6-22,15-12.7,15.2-17.6,41.1-9,57,19.3,35.9,111.1,30.1,171,13,33.4-9.5,39.3-17.6,66-19,43.6-2.3,57.1,17.4,105,30,29.7,7.8,23.2-.1,159-4,57.4-1.6,87-1,99-21,6.3-10.5,7.1-25.4,1-36-10.7-18.5-40.4-19.6-55-20-87.5-2.2-196.6-.2-215,0C281.3,488,237.9,488.6,190,475Z" transform="translate(-32.7 -148)"/>
+  <path class="dream-cls-2" d="M111.5,524.5s132-31,176-18,111,41,153,33,97-6,101-24-2-41-41-70-134-93-168-77-33,19-74,40-39,45-89,57-61,27-72,39S111.5,524.5,111.5,524.5Z" transform="translate(-32.7 -148)"/>
   <g>
-    <path class="cls-3" d="M397,290s18.3,32,13.7,64.9S397,401.5,397,401.5l31.1,5.5s-10.1-37.5-5.5-47.5,5.5-60.4,11-62.2S397,290,397,290Z" transform="translate(-32.7 -148)"/>
-    <circle class="cls-4" cx="357.3" cy="93" r="71"/>
-    <circle class="cls-5" cx="420.8" cy="123.5" r="63.5"/>
-    <circle class="cls-6" cx="411.8" cy="54.5" r="54.5"/>
+    <path class="dream-cls-3" d="M397,290s18.3,32,13.7,64.9S397,401.5,397,401.5l31.1,5.5s-10.1-37.5-5.5-47.5,5.5-60.4,11-62.2S397,290,397,290Z" transform="translate(-32.7 -148)"/>
+    <circle class="dream-cls-4" cx="357.3" cy="93" r="71"/>
+    <circle class="dream-cls-5" cx="420.8" cy="123.5" r="63.5"/>
+    <circle class="dream-cls-6" cx="411.8" cy="54.5" r="54.5"/>
   </g>
-  <path class="cls-7" d="M335.3,319.8A16,16,0,1,0,308,331.1c-.9-5.6-.2-13.8,1-16.3,1.8-4.1,13.1-2.9,13.1-2.9l3.2-4.2.6,4.2s5,2.4,5.8,10.4a20.5,20.5,0,0,1-.8,8.5,15.8,15.8,0,0,0,2.6-3.6A15.3,15.3,0,0,0,335.3,319.8Z" transform="translate(-32.7 -148)"/>
+  <path class="dream-cls-7" d="M335.3,319.8A16,16,0,1,0,308,331.1c-.9-5.6-.2-13.8,1-16.3,1.8-4.1,13.1-2.9,13.1-2.9l3.2-4.2.6,4.2s5,2.4,5.8,10.4a20.5,20.5,0,0,1-.8,8.5,15.8,15.8,0,0,0,2.6-3.6A15.3,15.3,0,0,0,335.3,319.8Z" transform="translate(-32.7 -148)"/>
   <g>
-    <path class="cls-8" d="M313.7,334.9l-22.3,42.2s7.3,5.6,27.9,6.3,28.8-5.1,28.8-5.1l-24.4-43.4-3.1.8a8.1,8.1,0,0,1-3.8,0Z" transform="translate(-32.7 -148)"/>
-    <line class="cls-9" x1="279.7" y1="235.4" x2="279.7" y2="243.1"/>
-    <line class="cls-9" x1="293.2" y1="235.3" x2="293.2" y2="243.1"/>
-    <path class="cls-10" d="M330.8,305.7c-4.7-4.4-17.3-5.2-22.9-.4s-7.6,13.2-7.3,24.5,16.6,6.8,11.2,7.1c-2.1.2-3.2-2.4-3.8-5.8-1.4-1.4,4.4,4.9,10.7,5.1s12.7-5.9,12.2-5.4a19.5,19.5,0,0,1-2.9,6.1,55.8,55.8,0,0,0,8.6-3.8C339.7,331.3,335.5,310,330.8,305.7Z" transform="translate(-32.7 -148)"/>
-    <path class="cls-11" d="M331.7,322.3c-.8-8-5.8-10.4-5.8-10.4l-.6-4.2-3.2,4.2s-11.3-1.2-13.1,2.9c-1.2,2.5-1.9,10.7-1,16.3a16,16,0,0,0,11.3,4.7,15.8,15.8,0,0,0,11.6-5A20.5,20.5,0,0,0,331.7,322.3Z" transform="translate(-32.7 -148)"/>
-    <path class="cls-12" d="M314.5,327.5a5.8,5.8,0,0,0,4.6,2.5,4.3,4.3,0,0,0,2.5-.5,7.3,7.3,0,0,0,1.9-2,4.6,4.6,0,0,1-1.5,2.6,3.7,3.7,0,0,1-1.4.7,4.4,4.4,0,0,1-1.6.2,6.3,6.3,0,0,1-2.9-1A4.2,4.2,0,0,1,314.5,327.5Z" transform="translate(-32.7 -148)"/>
+    <path class="dream-cls-8" d="M313.7,334.9l-22.3,42.2s7.3,5.6,27.9,6.3,28.8-5.1,28.8-5.1l-24.4-43.4-3.1.8a8.1,8.1,0,0,1-3.8,0Z" transform="translate(-32.7 -148)"/>
+    <line class="dream-cls-9" x1="279.7" y1="235.4" x2="279.7" y2="243.1"/>
+    <line class="dream-cls-9" x1="293.2" y1="235.3" x2="293.2" y2="243.1"/>
+    <path class="dream-cls-10" d="M330.8,305.7c-4.7-4.4-17.3-5.2-22.9-.4s-7.6,13.2-7.3,24.5,16.6,6.8,11.2,7.1c-2.1.2-3.2-2.4-3.8-5.8-1.4-1.4,4.4,4.9,10.7,5.1s12.7-5.9,12.2-5.4a19.5,19.5,0,0,1-2.9,6.1,55.8,55.8,0,0,0,8.6-3.8C339.7,331.3,335.5,310,330.8,305.7Z" transform="translate(-32.7 -148)"/>
+    <path class="dream-cls-11" d="M331.7,322.3c-.8-8-5.8-10.4-5.8-10.4l-.6-4.2-3.2,4.2s-11.3-1.2-13.1,2.9c-1.2,2.5-1.9,10.7-1,16.3a16,16,0,0,0,11.3,4.7,15.8,15.8,0,0,0,11.6-5A20.5,20.5,0,0,0,331.7,322.3Z" transform="translate(-32.7 -148)"/>
+    <path class="dream-cls-12" d="M314.5,327.5a5.8,5.8,0,0,0,4.6,2.5,4.3,4.3,0,0,0,2.5-.5,7.3,7.3,0,0,0,1.9-2,4.6,4.6,0,0,1-1.5,2.6,3.7,3.7,0,0,1-1.4.7,4.4,4.4,0,0,1-1.6.2,6.3,6.3,0,0,1-2.9-1A4.2,4.2,0,0,1,314.5,327.5Z" transform="translate(-32.7 -148)"/>
   </g>
   <g>
-    <circle class="cls-13" cx="265.3" cy="152" r="4"/>
-    <circle class="cls-14" cx="253.8" cy="143.5" r="6.5"/>
-    <ellipse class="cls-15" cx="216.3" cy="119" rx="35" ry="29"/>
+    <circle class="dream-cls-13" cx="265.3" cy="152" r="4"/>
+    <circle class="dream-cls-14" cx="253.8" cy="143.5" r="6.5"/>
+    <ellipse class="dream-cls-15" cx="216.3" cy="119" rx="35" ry="29"/>
   </g>
 </svg>

@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="css/style.css" />
-    <title>Document</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat|Raleway"
+      rel="stylesheet"
+    />
+    <title>My Timeline Story</title>
   </head>
   <body>
     <header>
@@ -16,13 +20,18 @@
       <section id="time-line-svg"></section>
     </main>
     <template>
-      <section>
-        <img data-field="image" src="images/watercolor-blue-green.png" alt="" />
-        <div data-field="svg">illustrtation svg</div>
+      <section class="IllustrationBox">
+        <img
+          class="back"
+          data-field="image"
+          src="images/watercolor-blue-green.png"
+          alt="backgound image"
+        />
+        <div class="svgIllustration" data-field="svg">illustrtation svg</div>
         <article>
           <h2 data-field="title">title</h2>
-          <p data-field="description1">description 1</p>
-          <p data-field="description2">description 2</p>
+          <p class="desc1" data-field="description1">description 1</p>
+          <p class0="desc2" data-field="description2">description 2</p>
         </article>
       </section>
     </template>

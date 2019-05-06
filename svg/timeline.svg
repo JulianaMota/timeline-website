@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1142.8 304.5">
   <defs>
     
-    <linearGradient id="linear-gradient" x1="923.5" y1="120" x2="987.5" y2="120" gradientUnits="userSpaceOnUse">
+    <linearGradient id="time-linear-gradient" x1="923.5" y1="120" x2="987.5" y2="120" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#cdcccc"/>
     </linearGradient>
-    <linearGradient id="linear-gradient-2" x1="1033.5" y1="116" x2="1097.5" y2="116" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-3" x1="484.5" x2="548.5" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-4" x1="595.5" y1="117" x2="659.5" y2="117" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-5" x1="704.5" y1="121" x2="768.5" y2="121" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-6" x1="813.5" y1="118" x2="877.5" y2="118" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-7" x1="376.5" y1="118" x2="440.5" y2="118" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-8" x1="266.5" x2="330.5" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-9" x1="157.5" y1="117" x2="221.5" y2="117" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-10" x1="46.5" y1="125" x2="110.5" y2="125" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-11" x1="13.78" y1="16" x2="32.78" y2="16" xlink:href="#linear-gradient"/>
+    <linearGradient id="time-linear-gradient-2" x1="1033.5" y1="116" x2="1097.5" y2="116" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-3" x1="484.5" x2="548.5" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-4" x1="595.5" y1="117" x2="659.5" y2="117" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-5" x1="704.5" y1="121" x2="768.5" y2="121" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-6" x1="813.5" y1="118" x2="877.5" y2="118" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-7" x1="376.5" y1="118" x2="440.5" y2="118" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-8" x1="266.5" x2="330.5" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-9" x1="157.5" y1="117" x2="221.5" y2="117" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-10" x1="46.5" y1="125" x2="110.5" y2="125" xlink:href="#time-linear-gradient"/>
+    <linearGradient id="time-linear-gradient-11" x1="13.78" y1="16" x2="32.78" y2="16" xlink:href="#time-linear-gradient"/>
   </defs>
   <title>timeline</title>
   <g class="timelines">
@@ -61,7 +61,7 @@
       <line class="separatorTY" x1="349.5" y1="234.5" x2="349.5" y2="247.5"/>
       <line class="separatorTY" x1="572.5" y1="234.5" x2="572.5" y2="247.5"/>
     </g>
-    <g id="mmdIcon">
+    <g id="mmdIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(917 81.5)" xlink:href="../svg/timeline1.png"/>
         <g>
@@ -79,7 +79,7 @@
         <polygon class="noFill" points="965.2 109 976.3 122.7 963.3 133.1 962.3 131.9 973.4 122.4 964.1 109.8 965.2 109"/>
       </g>
     </g>
-    <g id="futureIcon">
+    <g id="futureIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(1027 77.5)" xlink:href="../svg/timeline2.png"/>
         <g>
@@ -89,7 +89,7 @@
       </g>
       <polygon id="arrow" class="noFill" points="1045.2 109.7 1045.2 128.7 1067.5 128.7 1067.5 136.6 1088.4 118.7 1071.2 99.5 1070.2 107 1045.2 109.7"/>
     </g>
-    <g id="heartIcon">
+    <g id="heartIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(478 81.5)" xlink:href="../svg/timeline3.png"/>
         <g>
@@ -99,7 +99,7 @@
       </g>
       <path id="heart" class="noFill" d="M765.4,748.8s-12-6.2-16.5-13.8-1.8-14.1,3.5-16.1c9.8-3.6,13.5,4.8,13.5,4.8s6.4-8.2,13.4-4.8,6.4,10.7,3.2,15.8C777.1,743.1,765.4,748.8,765.4,748.8Z" transform="translate(-249 -612.5)"/>
     </g>
-    <g id="danIcon">
+    <g id="danIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(589 78.5)" xlink:href="../svg/timeline4.png"/>
         <g>
@@ -113,7 +113,7 @@
         <line class="noFill" x1="606.4" y1="117.6" x2="647" y2="117.6"/>
       </g>
     </g>
-    <g id="workicon">
+    <g id="workicon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(698 82.5)" xlink:href="../svg/timeline5.png"/>
         <g>
@@ -126,7 +126,7 @@
         <path class="noFill" d="M992.3,722s.7-6-6.5-6-6.4,6-6.4,6h2.8s-.4-3.4,3.8-3.4,3.8,3.4,3.8,3.4Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
-    <g id="searchIcon">
+    <g id="searchIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(807 79.5)" xlink:href="../svg/timeline6.png"/>
         <g>
@@ -140,7 +140,7 @@
         <polyline class="noFill" points="830.3 137.9 827.2 134.9 842.3 118.9 846.1 122.6 830.3 137.9"/>
       </g>
     </g>
-    <g id="archIcon">
+    <g id="archIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(370 79.5)" xlink:href="../svg/timeline7.png"/>
         <g>
@@ -154,7 +154,7 @@
         <line class="noFill" x1="423.7" y1="105.8" x2="408.7" y2="110.9"/>
       </g>
     </g>
-    <g id="artIcon">
+    <g id="artIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(260 81.5)" xlink:href="../svg/timeline8.png"/>
         <g>
@@ -168,7 +168,7 @@
         <polygon class="noFill" points="307.6 126.5 305.9 124.6 303.1 127 304.6 129.3 307.6 126.5"/>
       </g>
     </g>
-    <g id="scoutsIcon">
+    <g id="scoutsIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(151 78.5)" xlink:href="../svg/timeline9.png"/>
         <g>
@@ -186,7 +186,7 @@
         <path class="noFill" d="M441.4,738.2s.3,3.4,3.4,3.8a3.6,3.6,0,0,0,4.1-2.4s-2.3,2.1-3.8,1.1a4.8,4.8,0,0,1-1.9-2.5Z" transform="translate(-249 -612.5)"/>
       </g>
     </g>
-    <g id="girlIcon">
+    <g id="girlIcon" class="btn-Icon">
       <g>
         <image class="iconsShadow" width="83" height="83" transform="translate(40 86.5)" xlink:href="../svg/timeline10.png"/>
         <g>

@@ -63,7 +63,7 @@
     </g>
     <g id="mmdIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(917 81.5)" xlink:href="../svg/timeline1.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(917 81.5)" xlink:href="svg/timeline1.png"/>
         <g>
           <circle class="mmdCircle" cx="955.5" cy="120" r="32"/>
           <circle class="noFill" cx="955.5" cy="120" r="32"/>
@@ -81,7 +81,7 @@
     </g>
     <g id="futureIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(1027 77.5)" xlink:href="../svg/timeline2.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(1027 77.5)" xlink:href="svg/timeline2.png"/>
         <g>
           <circle class="futureCircle" cx="1065.5" cy="116" r="32"/>
           <circle class="noFill" cx="1065.5" cy="116" r="32"/>
@@ -91,7 +91,7 @@
     </g>
     <g id="heartIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(478 81.5)" xlink:href="../svg/timeline3.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(478 81.5)" xlink:href="svg/timeline3.png"/>
         <g>
           <circle class="heartCircle" cx="516.5" cy="120" r="32"/>
           <circle class="noFill" cx="516.5" cy="120" r="32"/>
@@ -101,7 +101,7 @@
     </g>
     <g id="danIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(589 78.5)" xlink:href="../svg/timeline4.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(589 78.5)" xlink:href="svg/timeline4.png"/>
         <g>
           <circle class="danCircle" cx="627.5" cy="117" r="32"/>
           <circle class="noFill" cx="627.5" cy="117" r="32"/>
@@ -115,7 +115,7 @@
     </g>
     <g id="workicon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(698 82.5)" xlink:href="../svg/timeline5.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(698 82.5)" xlink:href="svg/timeline5.png"/>
         <g>
           <circle class="workCircle" cx="736.5" cy="121" r="32"/>
           <circle class="noFill" cx="736.5" cy="121" r="32"/>
@@ -128,7 +128,7 @@
     </g>
     <g id="searchIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(807 79.5)" xlink:href="../svg/timeline6.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(807 79.5)" xlink:href="svg/timeline6.png"/>
         <g>
           <circle class="searchCircle" cx="845.5" cy="118" r="32"/>
           <circle class="noFill" cx="845.5" cy="118" r="32"/>
@@ -142,7 +142,7 @@
     </g>
     <g id="archIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(370 79.5)" xlink:href="../svg/timeline7.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(370 79.5)" xlink:href="svg/timeline7.png"/>
         <g>
           <circle class="archCircle" cx="408.5" cy="118" r="32"/>
           <circle class="noFill" cx="408.5" cy="118" r="32"/>
@@ -156,7 +156,7 @@
     </g>
     <g id="artIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(260 81.5)" xlink:href="../svg/timeline8.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(260 81.5)" xlink:href="svg/timeline8.png"/>
         <g>
           <circle class="artCircle" cx="298.5" cy="120" r="32"/>
           <circle class="noFill" cx="298.5" cy="120" r="32"/>
@@ -170,7 +170,7 @@
     </g>
     <g id="scoutsIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(151 78.5)" xlink:href="../svg/timeline9.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(151 78.5)" xlink:href="svg/timeline9.png"/>
         <g>
           <circle class="scoutCircle" cx="189.5" cy="117" r="32"/>
           <circle class="noFill" cx="189.5" cy="117" r="32"/>
@@ -188,7 +188,7 @@
     </g>
     <g id="girlIcon" class="btn-Icon">
       <g>
-        <image class="iconsShadow" width="83" height="83" transform="translate(40 86.5)" xlink:href="../svg/timeline10.png"/>
+        <image class="iconsShadow" width="83" height="83" transform="translate(40 86.5)" xlink:href="svg/timeline10.png"/>
         <g>
           <circle class="girlCircle" cx="78.5" cy="125" r="32"/>
           <circle class="noFill" cx="78.5" cy="125" r="32"/>

@@ -401,13 +401,147 @@ main {
 
 /**** animation friendly  ****/
 
+.friends {
+  opacity: 0;
+  transition: 3s;
+}
+
+/* .fireAnime {
+  transform: scale(0);
+  animation: fireAnimate 2s ease-in infinite;
+} */
+
+/* @keyframes fireAnimate {
+  100% {
+    transform: scale(2) ;
+    transform-origin: center;
+  }
+}*/
+
 .friendAnimate {
   animation: friendAnime 2s ease-in infinite;
 }
 
 @keyframes friendAnime {
   50% {
+    transform: rotate(4deg);
+    transform-origin: center;
+  }
+}
+
+/**** animation creative  ****/
+
+.ink-creatAnimate {
+  animation: moveInk 1.5s ease-in forwards;
+}
+
+@keyframes moveInk {
+  100% {
+    transform: translate3d(50%, 20%, 0);
+    transform-origin: center;
+  }
+}
+
+#blueInk {
+  opacity: 0;
+}
+
+.blueInkAnimate {
+  animation: appearInk 0.05s ease-in 1.7s forwards;
+}
+
+@keyframes appearInk {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#girl-creat {
+  animation: moveGirl 2s ease-in 1s infinite;
+}
+
+@keyframes moveGirl {
+  50% {
+    transform: rotate(4deg);
+    transform-origin: center;
+  }
+}
+
+/**** animation realistic  ****/
+
+.ruler-reaAnimate {
+  animation: moveRuler 2s ease-in forwards;
+}
+
+@keyframes moveRuler {
+  50% {
+    transform: translate3d(5%, 10%, 0);
+    transform-origin: center;
+  }
+}
+
+#bin-rea {
+  animation: moveTube 2s ease-in 1s infinite;
+}
+
+@keyframes moveTube {
+  50% {
     transform: rotate(2deg);
+    transform-origin: center;
+  }
+}
+
+/**** animation passionate  ****/
+
+#beatHeart {
+  animation: beatHeart 2s linear 1s infinite;
+}
+
+@keyframes beatHeart {
+  0% {
+    transform: scale3d(1, 1, 0);
+    transform-origin: center;
+  }
+  50% {
+    transform: scale3d(1.1, 1.5, 0);
+    transform-origin: center;
+  }
+  60% {
+    transform: scale3d(1, 1, 0);
+    transform-origin: center;
+  }
+  70% {
+    transform: scale3d(1.1, 1.5, 0);
+    transform-origin: center;
+  }
+}
+
+/**** animation adventurous  ****/
+#plain {
+  transform: translate3d(-30%, 0%, 0);
+}
+
+.plainAnimate {
+  animation: flyAimation 2s linear 1s forwards;
+}
+
+@keyframes flyAimation {
+  100% {
+    transform: translate3d(90%, -10%, 0);
+    transform-origin: top;
+  }
+}
+
+.flag-adAnimate {
+  animation: moveFlag 2s ease-in-out 2s forwards;
+}
+
+@keyframes moveFlag {
+  100% {
+    transform: translate3d(-40%, -5%, 0) scale3d(2, 2, 0);
     transform-origin: center;
   }
 }

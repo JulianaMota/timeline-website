@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", loadIllustrations);
 function loadTimelineSVG() {
   //console.log("");
 
-  fetch("../svg/timeline.svg")
+  fetch("svg/timeline.svg")
     .then(response => response.text())
     .then(svgData => {
       //console.log(svgData);
@@ -75,7 +75,7 @@ function iconClicked(event) {
     const treelist = document.querySelectorAll(".tree-d");
     treelist.forEach(tree => {
       console.log(tree);
-      tree.classList.toggle("tree-dAnimate");
+      tree.classList.add("tree-dAnimate");
     });
   }
   if (event.target.classList.value === "scoutCircle") {
@@ -90,10 +90,12 @@ function iconClicked(event) {
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
 
+    //animation
     const friendlist = document.querySelectorAll(".friends");
     friendlist.forEach(friend => {
       console.log(friend);
       friend.classList.add("friendAnimate");
+      friend.style.opacity = 1;
     });
   }
   if (event.target.classList.value === "artCircle") {
@@ -107,6 +109,10 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#ink-creat").classList.toggle("ink-creatAnimate");
+    document.querySelector("#blueInk").classList.toggle("blueInkAnimate");
   }
   if (event.target.classList.value === "archCircle") {
     document.querySelector("#Realistic").classList.remove("hide");
@@ -119,6 +125,9 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#ruler-rea").classList.toggle("ruler-reaAnimate");
   }
   if (event.target.classList.value === "heartCircle") {
     document.querySelector("#Passionate").classList.remove("hide");
@@ -143,6 +152,10 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#plain").classList.toggle("plainAnimate");
+    document.querySelector("#flag-ad").classList.toggle("flag-adAnimate");
   }
   if (event.target.classList.value === "workCircle") {
     document.querySelector("#Perseverant").classList.remove("hide");
@@ -212,11 +225,9 @@ function loadIllustrations() {
           const property = element.dataset.field;
 
           if (element.dataset.field === "image") {
-            element.src = "../images/" + obj[property];
-            const imageI = "../images/" + obj[property];
-            //console.log(imageI);
+            element.src = "images/" + obj[property];
           } else if (element.dataset.field === "svg") {
-            fetch("../svg/" + obj[property])
+            fetch("svg/" + obj[property])
               .then(res => res.text())
               .then(svgData => {
                 //console.log(svgData);

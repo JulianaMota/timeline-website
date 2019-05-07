@@ -89,6 +89,12 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    const friendlist = document.querySelectorAll(".friends");
+    friendlist.forEach(friend => {
+      console.log(friend);
+      friend.classList.add("friendAnimate");
+    });
   }
   if (event.target.classList.value === "artCircle") {
     document.querySelector("#Crealive").classList.remove("hide");

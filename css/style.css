@@ -393,25 +393,15 @@ main {
 }
 
 @keyframes treeRotate {
-  0% {
-    /* transform: scale(0.2); */
-    transform-origin: center;
-  }
   50% {
     transform: rotate(2deg);
     transform-origin: center;
   }
-  /* 100% {
-    transform: scale(1);
-  } */
 }
 
 /**** animation friendly  ****/
 
-#friend4,
-#friend3,
-#friend2,
-#friend1 {
+.friendAnimate {
   animation: friendAnime 2s ease-in infinite;
 }
 

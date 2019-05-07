@@ -89,9 +89,9 @@
   <path class="dream-cls-2" d="M111.5,524.5s132-31,176-18,111,41,153,33,97-6,101-24-2-41-41-70-134-93-168-77-33,19-74,40-39,45-89,57-61,27-72,39S111.5,524.5,111.5,524.5Z" transform="translate(-32.7 -148)"/>
   <g>
     <path class="dream-cls-3" d="M397,290s18.3,32,13.7,64.9S397,401.5,397,401.5l31.1,5.5s-10.1-37.5-5.5-47.5,5.5-60.4,11-62.2S397,290,397,290Z" transform="translate(-32.7 -148)"/>
-    <circle class="dream-cls-4" cx="357.3" cy="93" r="71"/>
-    <circle class="dream-cls-5" cx="420.8" cy="123.5" r="63.5"/>
-    <circle class="dream-cls-6" cx="411.8" cy="54.5" r="54.5"/>
+    <circle class="dream-cls-4 tree-d" cx="357.3" cy="93" r="71"/>
+    <circle class="dream-cls-5 tree-d" cx="420.8" cy="123.5" r="63.5"/>
+    <circle class="dream-cls-6 tree-d" cx="411.8" cy="54.5" r="54.5"/>
   </g>
   <path class="dream-cls-7" d="M335.3,319.8A16,16,0,1,0,308,331.1c-.9-5.6-.2-13.8,1-16.3,1.8-4.1,13.1-2.9,13.1-2.9l3.2-4.2.6,4.2s5,2.4,5.8,10.4a20.5,20.5,0,0,1-.8,8.5,15.8,15.8,0,0,0,2.6-3.6A15.3,15.3,0,0,0,335.3,319.8Z" transform="translate(-32.7 -148)"/>
   <g>
@@ -103,8 +103,8 @@
     <path class="dream-cls-12" d="M314.5,327.5a5.8,5.8,0,0,0,4.6,2.5,4.3,4.3,0,0,0,2.5-.5,7.3,7.3,0,0,0,1.9-2,4.6,4.6,0,0,1-1.5,2.6,3.7,3.7,0,0,1-1.4.7,4.4,4.4,0,0,1-1.6.2,6.3,6.3,0,0,1-2.9-1A4.2,4.2,0,0,1,314.5,327.5Z" transform="translate(-32.7 -148)"/>
   </g>
   <g>
-    <circle class="dream-cls-13" cx="265.3" cy="152" r="4"/>
-    <circle class="dream-cls-14" cx="253.8" cy="143.5" r="6.5"/>
-    <ellipse class="dream-cls-15" cx="216.3" cy="119" rx="35" ry="29"/>
+    <circle class="dream-cls-13 cloud" cx="265.3" cy="152" r="4"/>
+    <circle class="dream-cls-14 cloud" cx="253.8" cy="143.5" r="6.5"/>
+    <ellipse class="dream-cls-15 cloud" cx="216.3" cy="119" rx="35" ry="29"/>
   </g>
 </svg>

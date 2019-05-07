@@ -1,3 +1,8 @@
+let circle = null;
+let curve = null;
+let currentPosition = 0;
+var direction = true;
+
 window.addEventListener("DOMContentLoaded", loadTimelineSVG);
 window.addEventListener("DOMContentLoaded", loadIllustrations);
 
@@ -14,8 +19,33 @@ function loadTimelineSVG() {
       const iconsArray = document.querySelectorAll(".btn-Icon");
       console.log(iconsArray);
       iconsArray.forEach(eachIcon);
+
+      circle = document.querySelector("#movecircle");
+
+      curve = document.querySelector("#curve-line");
+      console.log(circle, curve);
+      // runAnimation();
     });
 }
+
+// let xpos = 20;
+
+// function runAnimation() {
+//   console.log("animate");
+
+//   if (currentPosition < curve.getTotalLength()) {
+//     requestAnimationFrame(runAnimation);
+//   }
+
+//   const speed = 2;
+
+//   currentPosition += speed;
+
+//   const pos = curve.getPointAtLength(currentPosition);
+//   console.log(pos);
+
+//   circle.style.transform = `translate( ${pos.x}px, ${pos.y}px )`;
+// }
 
 function eachIcon(icon) {
   console.log(icon);
@@ -35,6 +65,18 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    const couldlist = document.querySelectorAll(".cloud");
+    couldlist.forEach(cloud => {
+      console.log(cloud);
+      cloud.classList.toggle("cloudAnimate");
+    });
+    const treelist = document.querySelectorAll(".tree-d");
+    treelist.forEach(tree => {
+      console.log(tree);
+      tree.classList.toggle("tree-dAnimate");
+    });
   }
   if (event.target.classList.value === "scoutCircle") {
     document.querySelector("#Friendly").classList.remove("hide");

@@ -776,9 +776,18 @@ main {
     height: auto;
     margin: 20px 0;
   }
-
+  h1 {
+    text-align: center;
+    padding: none;
+  }
+  main {
+    display: grid;
+    grid-template: auto auto / 1fr;
+  }
   /*** illustations parent ***/
   #illustration-svg {
+    grid-column: 1/2;
+    grid-row: 2/3;
     display: grid;
     grid-template: 1fr/ 1fr;
   }

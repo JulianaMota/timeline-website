@@ -406,17 +406,21 @@ main {
   transition: 3s;
 }
 
-/* .fireAnime {
-  transform: scale(0);
-  animation: fireAnimate 2s ease-in infinite;
-} */
+#fireAnime {
+  transform: scale(0.2);
+  transform-origin: 45% 70%;
+}
 
-/* @keyframes fireAnimate {
+.fireAnimate {
+  animation: fireAnimate 1s ease-in 1s forwards;
+}
+
+@keyframes fireAnimate {
   100% {
-    transform: scale(2) ;
-    transform-origin: center;
+    transform: scale(1);
+    transform-origin: 45% 70%;
   }
-}*/
+}
 
 .friendAnimate {
   animation: friendAnime 2s ease-in infinite;
@@ -459,7 +463,7 @@ main {
   }
 }
 
-#girl-creat {
+.girl-creatAnimate {
   animation: moveGirl 2s ease-in 1s infinite;
 }
 
@@ -483,7 +487,7 @@ main {
   }
 }
 
-#bin-rea {
+.bin-reaAnimate {
   animation: moveTube 2s ease-in 1s infinite;
 }
 
@@ -496,7 +500,7 @@ main {
 
 /**** animation passionate  ****/
 
-#beatHeart {
+.beatHeartAnimate {
   animation: beatHeart 2s linear 1s infinite;
 }
 
@@ -543,5 +547,220 @@ main {
   100% {
     transform: translate3d(-40%, -5%, 0) scale3d(2, 2, 0);
     transform-origin: center;
+  }
+}
+
+.ruler-adAnimate {
+  animation: moveRulerAd 2s ease-in-out 4s forwards;
+}
+
+@keyframes moveRulerAd {
+  25% {
+    transform: translate3d(5%, -3%, 0);
+    transform-origin: center;
+  }
+  40% {
+    transform: translate3d(0, 0, 0);
+    transform-origin: center;
+  }
+  80% {
+    transform: translate3d(0, -3%, 0);
+    transform-origin: center;
+  }
+}
+
+/**** animation Perserverant  ****/
+
+#ruler-pres {
+  opacity: 0;
+  transform: translate3d(-5%, -3%, 0);
+}
+.ruler-presAnimate {
+  animation: ruler-presAppear 0.5s ease-in 0.5s forwards;
+}
+
+#ruler-t-pres {
+  opacity: 0;
+  transform: translate3d(5%, -3%, 0);
+}
+.ruler-t-presAnimate {
+  animation: ruler-t-presAppear 1s ease-in 1s forwards;
+}
+
+#square-ruler-pres {
+  opacity: 0;
+  transform: translate3d(-5%, -3%, 0);
+}
+.square-ruler-presAnimate {
+  animation: square-ruler-presAppear 1s ease-in 1.8s forwards;
+}
+
+#model-pres {
+  opacity: 0;
+  transform: translate3d(5%, -5%, 0);
+}
+.model-presAnimate {
+  animation: model-presAppear 1s ease-in 2.5s forwards;
+}
+
+@keyframes ruler-presAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes ruler-t-presAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes square-ruler-presAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes model-presAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+.compass-presAnimate {
+  animation: compass-presAnime 2s ease-in-out 0.5s infinite;
+}
+
+@keyframes compass-presAnime {
+  50% {
+    transform: rotate(10deg);
+    transform-origin: center;
+  }
+}
+
+/**** animation Hopefull  ****/
+#cruise-hop {
+  opacity: 0;
+  transform: translate3d(-20%, 0, 0);
+}
+
+.cruise-hopAnimate {
+  animation: cruiseMove 3s ease-in-out 0.5s forwards;
+}
+
+@keyframes cruiseMove {
+  100% {
+    transform: translate3d(10%, 0, 0);
+    opacity: 1;
+  }
+}
+
+.mopAnimate {
+  animation: mopeMove 4s ease-in-out 3s infinite;
+}
+
+@keyframes mopeMove {
+  50% {
+    transform: rotate(15deg);
+    transform-origin: center;
+  }
+}
+
+/**** animation Inspiring  ****/
+
+#idea-ins {
+  opacity: 0;
+
+  transform: scale(0);
+  transform-origin: top center;
+}
+.idea-insAnimate {
+  animation: lampAppear 1s ease-in 0.5s forwards;
+}
+
+#design-isn {
+  opacity: 0;
+  transform: translate3d(5%, -5%, 0);
+}
+.design-isnAnimate {
+  animation: designAppear 1s ease-in 2s forwards;
+}
+
+#code-ins {
+  opacity: 0;
+  transform: translate3d(-5%, -5%, 0);
+}
+.code-insAnimate {
+  animation: codeAppear 1s ease-in 3s forwards;
+}
+
+@keyframes lampAppear {
+  100% {
+    transform: scale(1);
+    opacity: 1;
+    transform-origin: top center;
+  }
+}
+
+@keyframes codeAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes designAppear {
+  100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+.girl-insAnimate {
+  animation: moveGirl 2s ease-in 4s infinite;
+}
+
+/**** animation Vision  ****/
+#family {
+  opacity: 0;
+}
+
+.familyAnimate {
+  animation: familyScale 3s ease-in 0.5s forwards;
+}
+@keyframes familyScale {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+    transform-origin: center left;
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+    transform-origin: center left;
+  }
+}
+.mouseAnimate {
+  animation: mouseMove 3s ease-in 3s infinite;
+}
+
+@keyframes mouseMove {
+  50% {
+    transform: rotate(5deg);
+    transform-origin: center;
+  }
+}
+
+.pc-screenAnimate {
+  animation: screenBlink 2s ease-in 3s infinite;
+}
+
+@keyframes screenBlink {
+  50% {
+    fill: var(--color-grey);
   }
 }

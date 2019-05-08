@@ -97,6 +97,7 @@ function iconClicked(event) {
       friend.classList.add("friendAnimate");
       friend.style.opacity = 1;
     });
+    document.querySelector("#fireAnime").classList.toggle("fireAnimate");
   }
   if (event.target.classList.value === "artCircle") {
     document.querySelector("#Crealive").classList.remove("hide");
@@ -113,6 +114,7 @@ function iconClicked(event) {
     //animation
     document.querySelector("#ink-creat").classList.toggle("ink-creatAnimate");
     document.querySelector("#blueInk").classList.toggle("blueInkAnimate");
+    document.querySelector("#girl-creat").classList.add("girl-creatAnimate");
   }
   if (event.target.classList.value === "archCircle") {
     document.querySelector("#Realistic").classList.remove("hide");
@@ -128,6 +130,7 @@ function iconClicked(event) {
 
     //animation
     document.querySelector("#ruler-rea").classList.toggle("ruler-reaAnimate");
+    document.querySelector("#bin-rea").classList.add("bin-reaAnimate");
   }
   if (event.target.classList.value === "heartCircle") {
     document.querySelector("#Passionate").classList.remove("hide");
@@ -140,6 +143,8 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    document.querySelector("#beatHeart").classList.add("beatHeartAnimate");
   }
   if (event.target.classList.value === "danCircle") {
     document.querySelector("#Adventurous").classList.remove("hide");
@@ -156,6 +161,7 @@ function iconClicked(event) {
     //animation
     document.querySelector("#plain").classList.toggle("plainAnimate");
     document.querySelector("#flag-ad").classList.toggle("flag-adAnimate");
+    document.querySelector("#ruler-ad").classList.toggle("ruler-adAnimate");
   }
   if (event.target.classList.value === "workCircle") {
     document.querySelector("#Perseverant").classList.remove("hide");
@@ -168,6 +174,19 @@ function iconClicked(event) {
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#ruler-pres").classList.toggle("ruler-presAnimate");
+    document
+      .querySelector("#ruler-t-pres")
+      .classList.toggle("ruler-t-presAnimate");
+    document
+      .querySelector("#square-ruler-pres")
+      .classList.toggle("square-ruler-presAnimate");
+    document.querySelector("#model-pres").classList.toggle("model-presAnimate");
+    document
+      .querySelector("#compass-pres")
+      .classList.add("compass-presAnimate");
   }
   if (event.target.classList.value === "searchCircle") {
     document.querySelector("#Hopeful").classList.remove("hide");
@@ -180,6 +199,10 @@ function iconClicked(event) {
     document.querySelector("#Perseverant").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#cruise-hop").classList.toggle("cruise-hopAnimate");
+    document.querySelector("#mop").classList.add("mopAnimate");
   }
   if (event.target.classList.value === "mmdCircle") {
     document.querySelector("#Inspiring").classList.remove("hide");
@@ -192,6 +215,12 @@ function iconClicked(event) {
     document.querySelector("#Perseverant").classList.add("hide");
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Vision").classList.add("hide");
+
+    //animation
+    document.querySelector("#idea-ins").classList.toggle("idea-insAnimate");
+    document.querySelector("#design-isn").classList.toggle("design-isnAnimate");
+    document.querySelector("#code-ins").classList.toggle("code-insAnimate");
+    document.querySelector("#girl-ins").classList.toggle("girl-insAnimate");
   }
   if (event.target.classList.value === "futureCircle") {
     document.querySelector("#Vision").classList.remove("hide");
@@ -204,6 +233,11 @@ function iconClicked(event) {
     document.querySelector("#Perseverant").classList.add("hide");
     document.querySelector("#Hopeful").classList.add("hide");
     document.querySelector("#Inspiring").classList.add("hide");
+
+    //animation
+    document.querySelector("#family").classList.toggle("familyAnimate");
+    document.querySelector("#mouse").classList.add("mouseAnimate");
+    document.querySelector(".pc-screen").classList.add("pc-screenAnimate");
   }
 }
 

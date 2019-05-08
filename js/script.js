@@ -270,6 +270,12 @@ function loadIllustrations() {
                 element.innerHTML = svgData;
               });
           } else {
+            if (obj.description2 === "") {
+              clone.querySelector("[data-field=description2]").style.display =
+                "none";
+            } else {
+              element.textContent = obj[property];
+            }
             element.textContent = obj[property];
           }
         });

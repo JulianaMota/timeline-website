@@ -1,8 +1,3 @@
-let circle = null;
-let curve = null;
-let currentPosition = 0;
-var direction = true;
-
 window.addEventListener("DOMContentLoaded", loadTimelineSVG);
 window.addEventListener("DOMContentLoaded", loadIllustrations);
 
@@ -20,40 +15,46 @@ function loadTimelineSVG() {
       console.log(iconsArray);
       iconsArray.forEach(eachIcon);
 
-      circle = document.querySelector("#movecircle");
+      const snap = Snap("#time-line-svg svg");
+      circle = snap.select("#movecircle");
 
-      curve = document.querySelector("#curve-line");
+      curve = snap.select("#curve-line");
       console.log(circle, curve);
-      // runAnimation();
+      runAnimation();
     });
 }
 
-// let xpos = 20;
+let circle = null;
+let curve = null;
+let currentPosition = 0;
 
-// function runAnimation() {
-//   console.log("animate");
+const speed = 3;
 
-//   if (currentPosition < curve.getTotalLength()) {
-//     requestAnimationFrame(runAnimation);
-//   }
+function runAnimation() {
+  //console.log("animate");
 
-//   const speed = 2;
+  if (currentPosition < curve.getTotalLength()) {
+    requestAnimationFrame(runAnimation);
+  }
 
-//   currentPosition += speed;
+  curveL = curve.getPointAtLength();
+  console.log(curveL);
+  currentPosition += speed;
 
-//   const pos = curve.getPointAtLength(currentPosition);
-//   console.log(pos);
+  const pos = curve.getPointAtLength(currentPosition);
+  console.log(pos);
 
-//   circle.style.transform = `translate( ${pos.x}px, ${pos.y}px )`;
-// }
+  circle.node.style.transform = `translate( ${pos.x}px, ${pos.y}px )`;
+}
 
 function eachIcon(icon) {
-  console.log(icon);
+  //console.log(icon);
   icon.addEventListener("click", iconClicked);
 }
 
 function iconClicked(event) {
-  console.log(event.target.classList);
+  const girlCircle = document.querySelector(".girlCircle");
+  //console.log(event.target.classList);
   if (event.target.classList.value === "girlCircle") {
     document.querySelector("#Dreamer").classList.remove("hide");
     document.querySelector("#Friendly").classList.add("hide");

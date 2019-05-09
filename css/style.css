@@ -756,7 +756,7 @@ main {
 }
 
 .pc-screenAnimate {
-  animation: screenBlink 2s ease-in 3s infinite 4;
+  animation: screenBlink 2s ease-in 3s infinite;
 }
 
 @keyframes screenBlink {
@@ -833,20 +833,6 @@ main {
     grid-row: 2/3;
     justify-self: left;
     align-self: center;
-  }
-  .IllustrationBox article h2 {
-    font-family: var(--display-font);
-    font-size: var(--font-size-20);
-    font-weight: 600;
-    color: var(--color-purpule);
-  }
-  .IllustrationBox article p {
-    font-family: var(--text-font);
-    font-size: var(--font-size-14);
-    font-weight: 600;
-    color: var(--color-black);
-    padding-top: 20px;
-    line-height: 1.6;
   }
 
   /****timeline*****/

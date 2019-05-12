@@ -16,7 +16,7 @@
     <linearGradient id="time-linear-gradient-10" x1="46.5" y1="125" x2="110.5" y2="125" xlink:href="#time-linear-gradient"/>
     <linearGradient id="time-linear-gradient-11" x1="13.78" y1="16" x2="32.78" y2="16" xlink:href="#time-linear-gradient"/>
   </defs>
-  <title>timeline</title>
+  
   <g class="timelines">
     <g id="timeline-experience">
       <g id="colorpath">

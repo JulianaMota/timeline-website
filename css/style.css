@@ -129,6 +129,40 @@ table {
 }
 
 /***svg time line css***/
+/* girl css */
+.girl-cls-32,
+.girl-cls-33,
+.girl-cls-34,
+.girl-cls-36,
+.girl-cls-37 {
+  stroke-width: 3px;
+  width: 50%;
+}
+
+.girl-cls-32 {
+  fill: url(#white_gradient);
+}
+
+.girl-cls-33 {
+  fill: url(#white_gradient-2);
+}
+
+.girl-cls-34 {
+  fill: url(#white_gradient-3);
+}
+
+.girl-cls-35 {
+  fill: url(#white_gradient-4);
+}
+
+.girl-cls-36 {
+  fill: url(#white_gradient-5);
+}
+
+.girl-cls-37 {
+  fill: url(#white_gradient-6);
+}
+
 .timelines {
   isolation: isolate;
 }
@@ -248,6 +282,30 @@ table {
   opacity: 0.3;
   transition: 1s;
 }
+.btn-Icon {
+  cursor: pointer;
+}
+.btnAnimate {
+  animation: shakeIcon 2s ease-in 2s infinite;
+}
+
+@keyframes shakeIcon {
+  5% {
+    transform: translate3d(0.5%, 0, 0);
+  }
+  10% {
+    transform: translate3d(-0.5%, 0, 0);
+  }
+  15% {
+    transform: translate3d(0.5%, 0, 0);
+  }
+  20% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
 
 /**** global selectores****/
 
@@ -255,7 +313,6 @@ body {
   font-family: "Montserrat", sans-serif;
   font-family: "Raleway", sans-serif;
   height: 100vh;
-  margin: 20px 0;
 }
 
 :root {
@@ -287,26 +344,41 @@ body {
   transition: 1s !important;
 }
 
-h1 {
-  font-size: var(--font-size-30);
-  font-family: var(--display-font);
-  color: var(--color-pink);
-  font-weight: 600;
-  text-align: right;
-  padding-right: 30px;
-}
-
-main {
-  padding-top: 20px;
-}
 /*** illustations parent ***/
 #illustration-svg {
   display: grid;
   grid-template: 1fr/ 1fr;
+  height: 100%;
+  overflow: hidden;
 }
 #illustration-svg > section {
   grid-column: 1/2;
   grid-row: 1/2;
+}
+
+h1 {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  font-size: var(--font-size-30);
+  font-family: var(--display-font);
+  color: var(--color-pink);
+  font-weight: 600;
+  text-align: center;
+  align-self: center;
+  opacity: 0;
+  transform: scale(0);
+}
+
+.h1Animate {
+  animation: unhideH1 2s ease-in forwards;
+}
+
+@keyframes unhideH1 {
+  100% {
+    opacity: 1;
+    transform: scale(1);
+    transform-origin: 50%;
+  }
 }
 
 /**** template ****/
@@ -314,8 +386,8 @@ main {
 .IllustrationBox {
   display: grid;
   grid-template: 1fr / 2fr 1fr;
-  max-height: 60vh;
-  max-width: 80vw;
+  max-height: 100%;
+  /* max-width: 80vw; */
   justify-content: center;
   margin: auto;
   grid-column-gap: 20px;
@@ -335,7 +407,7 @@ main {
   grid-row: 1/2;
   align-self: flex-end;
   justify-self: center;
-  width: 60%;
+  width: 45%;
 }
 .IllustrationBox article {
   grid-column: 2/3;
@@ -355,14 +427,17 @@ main {
   font-weight: 600;
   color: var(--color-black);
   padding-top: 20px;
+  padding-right: 30px;
   line-height: 1.6;
 }
 
 /****timeline*****/
 #time-line-svg {
-  max-width: 70vw;
-  margin: auto;
+  width: 70vw;
   z-index: 3;
+  position: fixed;
+  bottom: 0;
+  left: 15%;
 }
 
 .dragCircle {
@@ -546,7 +621,7 @@ main {
 @keyframes moveFlag {
   100% {
     transform: translate3d(-40%, -5%, 0) scale3d(2, 2, 0);
-    transform-origin: center;
+    transform-origin: 50% 50%;
   }
 }
 
@@ -839,13 +914,16 @@ main {
   #time-line-svg {
     grid-column: 1/2;
     grid-row: 1/2;
-    margin: 0 20px;
+    margin: auto;
     z-index: 3;
     height: 100%;
     max-width: 100%;
     overflow: scroll;
     overflow-x: scroll;
     padding-top: 30px;
+    position: relative;
+    bottom: unset;
+    left: unset;
   }
 
   #time-line-svg svg {

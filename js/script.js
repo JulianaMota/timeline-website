@@ -1,3 +1,5 @@
+let iconsArray;
+
 window.addEventListener("DOMContentLoaded", loadTimelineSVG);
 window.addEventListener("DOMContentLoaded", loadIllustrations);
 
@@ -12,16 +14,18 @@ function loadTimelineSVG() {
 
       document.querySelector("#time-line-svg").innerHTML = svgData;
 
-      const iconsArray = document.querySelectorAll(".btn-Icon");
-      console.log(iconsArray);
+      iconsArray = document.querySelectorAll(".btn-Icon");
+      //console.log(iconsArray);
       iconsArray.forEach(eachIcon);
 
       const snap = Snap("#time-line-svg svg");
       circle = snap.select("#movecircle");
 
       curve = snap.select("#curve-line");
-      console.log(circle, curve);
+      //console.log(circle, curve);
     });
+
+  document.querySelector("h1").classList.add("h1Animate");
 }
 
 //animation time line
@@ -49,12 +53,9 @@ function runAnimation() {
     requestAnimationFrame(runAnimation);
   }
 
-  const firstStop = curve.getPointAtLength(100);
-  console.log(firstStop);
-
   const start = curve.getPointAtLength(0);
   const pos = curve.getPointAtLength(currentPosition);
-  console.log(pos);
+  //console.log(pos);
 
   circle.node.style.transform = `translate( ${pos.x - start.x}px, ${pos.y -
     start.y}px )`;
@@ -63,12 +64,16 @@ function runAnimation() {
 //event icons click
 function eachIcon(icon) {
   //console.log(icon);
+  icon.classList.add("btnAnimate");
   icon.addEventListener("click", iconClicked);
 }
 
 // appear and hide illustration based on icon clicked
 function iconClicked(event) {
-  // const girlCircle = document.querySelector(".girlCircle");
+  iconsArray.forEach(icon => icon.classList.remove("btnAnimate"));
+
+  document.querySelector("h1").classList.remove("h1Animate");
+  document.querySelector("h1").classList.add("hide");
   //console.log(event.target.classList);
   if (event.target.classList.value === "girlCircle") {
     document.querySelector("#Dreamer").classList.remove("hide");
@@ -87,12 +92,12 @@ function iconClicked(event) {
     //animation
     const couldlist = document.querySelectorAll(".cloud");
     couldlist.forEach(cloud => {
-      console.log(cloud);
+      //console.log(cloud);
       cloud.classList.toggle("cloudAnimate");
     });
     const treelist = document.querySelectorAll(".tree-d");
     treelist.forEach(tree => {
-      console.log(tree);
+      //console.log(tree);
       tree.classList.add("tree-dAnimate");
     });
   }
@@ -113,7 +118,7 @@ function iconClicked(event) {
 
     const friendlist = document.querySelectorAll(".friends");
     friendlist.forEach(friend => {
-      console.log(friend);
+      //console.log(friend);
       friend.classList.add("friendAnimate");
       friend.style.opacity = 1;
     });
